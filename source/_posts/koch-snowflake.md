@@ -11,10 +11,14 @@ $$
 \newcommand{\Quarticq}[5]{\frac{ { #2 }^3-4{ #1 }{ #2 }{ #3 }+8{ #1 }^2{ #4 }}{8{ #1 }^3}}
 $$
 
+by T@S
+
 ## 1 始めに
 
 コッホの雪片というものをご存知だろうか.
-それは, フラクタル図形の一種で, 右の図のようなものである.
+それは, フラクタル図形の一種で, 下の図のようなものである.
+
+![](https://7p34qg.bn.files.1drv.com/y4moieKBGP7_zqW-K-EyLnMfU33RHNCThoXmbRBKwT3wlfb0X8u-xY2kb_oD0xg5cc2hJ8P9SyHIDvU7rWjvPXg2zJA22rXDIo4XAhxTjS8j1jrgfY4Nt5cLERxT_JT8Y00Wotokh82tfu65g93RS-zd9eKjw3al9g9NVNW1DDnY2bs_GCfQHT8JnW6Tl5oj-mb5fECm8hij8A8msnZ4jS7TQ?width=256&height=253&cropmode=none)
 
 この図形は, 各線分を3 等分し, 中央の線分を1 辺とする正三角形を作り, 中央の線分を消
 去する, という簡単な操作を繰り返し行うことで現れるものである. 正三角形から始めたもの

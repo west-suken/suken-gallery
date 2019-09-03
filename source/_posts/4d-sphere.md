@@ -136,7 +136,8 @@ $$半径1の円の面積\approx\frac{315}{401}\times4=3.142144\cdots$$
 
 1. 半径の長さを定める。（以後 Rとする）
 2. ｘ座標、ｙ座標、ｚ座標、ｗ座標（四次元なので四方向ある）のそれぞれ－R 以上 R 以下の範囲に点を打つ。このようにして打た れた点は一辺が2r の正八胞体（二次元における正方形、三次 元における立方体のようなものの四次元版）の中に入ることになる。
-3. 原点から 2. で打った点までの距離を求める。距離は、 $$\sqrt{(x座標)^2+(y座標)^2+(z座標)^2+(w座標)^2}$$ で求める。この距離が R以下だった点は四次元超球体の中に位置することになる。このような点の数を記録する。（この数 を A個とする） 4. 2.～3.を100000回繰り返す。R÷100000の値を結果とする。
+3. 原点から 2. で打った点までの距離を求める。距離は、 $$\sqrt{(x座標)^2+(y座標)^2+(z座標)^2+(w座標)^2}$$ で求める。この距離が R以下だった点は四次元超球体の中に位置することになる。このような点の数を記録する。（この数 を A個とする）
+4. 2.～3.を100000回繰り返す。R÷100000の値を結果とする。
 
 ![](https://pe37qg.bn.files.1drv.com/y4mavI9UnEfLOZclo5fntS-YnB4660NGDUTgPdP3Y_JYsUAnIbsCiS7d2Bs8FNXPrRlatQgkxU78N1HkjRqvWtHyR8Nkp1LMq0ymrijSCic_6ca0knAhtZ2VRyUivliD9xPbfJU6Kx3JflSYRui7atXwCNXK5ZMgwot-ii-K0fKc7PnCVMJ5fCx4ECCuenCP540M31Yf0xLdQrCxVT37Mai1w?width=471&height=422&cropmode=none)
 

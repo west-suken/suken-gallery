@@ -10,8 +10,6 @@ by ポワロファン
 
 Google マップ(Earth)の「ストリートビュー※」は、地図上をクリックすることで何の変哲もない道路から世界中の観光地まで見ることができる機能です。公開されているものの多くは、車の上部にカメラがついている「ストリートビューカー」が道路を走りながら撮影したものですが、一定の基準を満たせば博物館や店舗、ひいては１ユーザーが公開することもできます。
 
-<br />
-
 ※Google Street View™ mapping service, Street View™ images,Google Maps™ mapping service はGoogle の商標です。  
 [(商標リスト)](https://www.google.com/permissions/trademark/trademark-list/)
  
@@ -20,7 +18,7 @@ Google マップ(Earth)の「ストリートビュー※」は、地図上をク
 1.  PC で編集<sup><a href="#3">\*3</a></sup>  
 1.  VR ゴーグル<sup><a href="#4">\*4</a></sup>(スマホ装着型)に対応化
 1.  来場者が、VRゴーグルで「西高ウェイビュー」を体験できる<sup><a href="#5">\*5</a></sup><sub>(予定)</sub>
-<br /><br />
+
 <span id="1" style="font-size:x-small">\*1 全天球カメラ RICOH THETA SC(「Rentio」でレンタル)</span>  
 <span id="2" style="font-size:x-small">\*2 すうけんOくんの自作</span>  
 <span id="3" style="font-size:x-small">\*3 MAGIX「VR Studio」「VR-X Player」「Vegas Pro」など</span>  

@@ -11,7 +11,7 @@ by OTRAY
 に加え、エンジニアの方々から貴重なお話を伺うことができました。  
 ![img1](https://vrroow.dm.files.1drv.com/y4mhqAYspy7igCfJnpTSiUAVeo-mxRzeTBs1o4FzLfrsBrBj7a_z6PjDI1yBh9y1P9tommgEwYQnnA0n-XVdAZPgIgG3YeHWZMZClStK9VrFCE6DU0bGRjy2gS3R8xKtDq2J4AXDnluN_3emcO-2Zx1hg3l84B2rSyyvIW4BreaOTAF_64GRDW1HyDLaUC6PjgIDXuhBXvv8qbRVLLRZGQvHA?width=256&height=134&cropmode=none)
 ## ギリア株式会社について
-ギリア株式会社は、2017年に株式会社UEI・株式会社ソニーコンピュータサイエンス研究所・WiL,LLCの三社により設立された、人工知能の開発を行うベンチャー企業です。企業の目標として、「ヒトとAI の共生環境の実現」を掲げています。現在はBtoB（企業間の商取引）を主に行っていますが、将来的には一般消費者向けの製品づくりを行うことを目指しているそうです。
+ギリア株式会社は、2017年に株式会社UEI・株式会社ソニーコンピュータサイエンス研究所・WiL,LLCの三社により設立された、人工知能の開発を行うベンチャー企業です。企業の目標として、「ヒトとAIの共生環境の実現」を掲げています。現在はBtoB（企業間の商取引）を主に行っていますが、将来的には一般消費者向けの製品づくりを行うことを目指しているそうです。
 代表取締役社長兼CEOを務めるのは、ニコニコ動画やTogetterといった著名なウェブサービスの立ち上げ深く関わったという経歴を持つ、清水亮氏です。
 ## 日本はAI発展の大チャンスを手にしている！？
 日本は今、人工知能が世界で最も発展しやすい国なんだそうです。それは、日本が少子高齢化の最先端にいるからとのこと。

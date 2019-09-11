@@ -11,7 +11,7 @@ by OTRAY
 ## 完成品
 ![img1](https://vrtiaa.dm.files.1drv.com/y4mSgzSIJRplAJY6Y-ZlFCZm4E3y8TPJ5H1GdbMkkL5V4009Nn4zDFRkpH1RLVGoos4nd6hpQt4ZZ3-PBzXb-ROoOT1qbvhZvSvxZtTY4AqkTqTObM2bYcpzjgTKbEj8ylTd6T392vx3cCWbvQbqlp9ka9s2i6AqyQIO74xExs5a_DJKD2Amsj4CvP0j5zcI-N5rZt626KtgXswQczGzuckbQ?width=256&height=192&cropmode=none)
 ![img2](https://vrrh9a.dm.files.1drv.com/y4mSRi4sZh273qNDIWcat1yJbImtOLPgqKzmrgAk6YNVZqLe216sdvzKE8ZNVniulsFPYpGXny-O5CQcTNCsKf4njBthD-3TNcGU2IAlk9x9Y-QZXoSFSJBflEkmz9i1hGQ0vYKQKFbE7Mkk_z8ep3l870i3toIW8okA-GAq9JTuIjbdGgN7e4xYY9dHkttCa9ScpQLiL1KDmxFvf9pNo1G9Q?width=256&height=142&cropmode=none)  
-パソコンにＵＳＢケーブルで接続してソフトを立ち上げると、ご覧のような画面が表示され、バンドの伴奏に合わせてギターソロが演奏できます。
+パソコンにUSBケーブルで接続してソフトを立ち上げると、ご覧のような画面が表示され、バンドの伴奏に合わせてギターソロが演奏できます。
 本物のギターのように、ネックにあてた人差し指を胴体側に動かすと音が高くなり、逆側に動かすと音が低くなります。音の出るタイミングは自動になっています。
 画面の白い円は人差し指で押さえている位置と連動していて、音の高低が視覚的にわかるようになっています。
 ## 仕様
@@ -21,7 +21,7 @@ by OTRAY
 **指に巻いたアルミホイルをネックの上で動かすと、塗られた黒鉛による抵抗の値が変化し、入力電圧から位置を取得できます。**
 電圧が程よく変化するように作るのには苦労しました。実験を重ね、4Bの鉛筆でカレンダーの裏紙に書くのがちょうどよい抵抗になることがわかりました。このカレンダーは可憐だー。  
 ![img5](https://vrqm4a.dm.files.1drv.com/y4mGet5zlVzW3Zh9wTMyGp9b_1CIISzihbD86extG-czW0y_sS7yGbogSfpb6vxTnVZX8nGkT4xC_AFH05udTLgMUq0UldDsRW74EFYfL46i9DPSVmQeWtviLnAakzHwhXFbfEQXB8E76Ygwq-jd-wsQSJUbCJE8hcIsxx0l-VQ-BqgSaNAgKQS4ev5O4z7zI1ZcXbbeO3FoFjeDWYZ6w2JrA?width=256&height=181&cropmode=none)  
-**Ｃ言語で書いたマイコンのプログラムで計算された指の位置を、USBケーブルを用いたシリアル通信でパソコンに送信します。それをJAVA言語で作った プログラムで受信し、さらにそこからScratchに入力します。**
+**C言語で書いたマイコンのプログラムで計算された指の位置を、USBケーブルを用いたシリアル通信でパソコンに送信します。それをJAVA言語で作った プログラムで受信し、さらにそこからScratchに入力します。**
 シリアル通信とは、一度に１ビットずつ逐次的にデータを送る通信方式のことです。
 ところで皆さんシリアルはお好きですか。自分はフルグラが好きです。  
 ![img6](https://iqbbdq.dm.files.1drv.com/y4mej6I8rifZerhZIbmvA47qJTZ2W_zYhOJQOG2_8FzNQ7pzBmDzDM7u0--luTM1hjhWa1HW1KFzRnl4P8DYu2YoXIW9-qHbzoYR_Sr62eocYCha7VaS1Yf-7fYsvQdw9eSSMdY39XWydVRHcD3YRx-C_FtVIjs9Hm0NTjQOe-HC2WghWnwCeXhpjvp6QzpTJoaECkx3DtZBmeAdCDbtdVWCw?width=256&height=181&cropmode=none)  

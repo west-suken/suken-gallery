@@ -25,8 +25,9 @@ by OTRAY
 シリアル通信とは、一度に１ビットずつ逐次的にデータを送る通信方式のことです。
 ところで皆さんシリアルはお好きですか。自分はフルグラが好きです。  
 ![img6](https://iqbbdq.dm.files.1drv.com/y4mej6I8rifZerhZIbmvA47qJTZ2W_zYhOJQOG2_8FzNQ7pzBmDzDM7u0--luTM1hjhWa1HW1KFzRnl4P8DYu2YoXIW9-qHbzoYR_Sr62eocYCha7VaS1Yf-7fYsvQdw9eSSMdY39XWydVRHcD3YRx-C_FtVIjs9Hm0NTjQOe-HC2WghWnwCeXhpjvp6QzpTJoaECkx3DtZBmeAdCDbtdVWCw?width=256&height=181&cropmode=none)  
+今の和音にハモる音のMIDIノートナンバーの集合を$A$とし、押さえている場所に対応する音のMIDIノートナンバーを$p$とすると、補正された音のMIDIノートナンバー$x$は次のように表される。
+$$ x\in A\ \ \ \left[\forall n\in A\ \ \ |p-x|\leq|p-n|\right] $$
 **押さえている位置に対応する音の高さを算出します。それを、自作のアルゴリズムによって、今鳴っている和音にハモるように補正してから、ギターの音を鳴らします。また、それに合わせて画面を描画し、伴奏を鳴らします。**
 和音によってハモる音というのは異なります。本物のギターでは適当に弾くと不協和音だらけになってしまいますが、このギターにはそれを自動で補正する機能がついているため、誰でも簡単に弾けるというわけです。
-おっと、そろそろギターソロの時間だ…。  
-![img7](https://iqcmma.dm.files.1drv.com/y4mA86PX83GR9xBqd5vyAtih0uH4O0eb40AWX6CyUvqlMpAhk95HJvlMM2Pb5Es1PnnI9kPE8Z17tbeST3XWHbV4kwDwlLHUi9IgQXJR_fZ9zkxf4H-8GfFf01ewY2fI5VRW-YxYCVmXhCQOQ4OvhUkS6m9qEy-zQu43HJJbgV4rhEkWppXAqHYFONoIddVS3cPQi9HnQJG-q5UL91yvYBn4g?width=256&height=117&cropmode=none)  <br/>
+おっと、そろそろギターソロの時間だ…。  <br/>
 ｷﾞﾀ━(ﾟ∀ﾟ)━!

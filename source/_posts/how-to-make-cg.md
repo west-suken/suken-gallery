@@ -2,6 +2,8 @@
 title: CGの作り方 ～Blenderの基本事項～
 date: 2019-08-27 14:28:25
 tags:
+cover_index: https://pe0qoq.bn.files.1drv.com/y4mmBpzTwanewOj228BMZ75zIS_BbHeXfReUpkXM6bW0n4w2YOODMLKe4iFXDTb7uSvegpFEPrkgu9BPYh_MhB7IfKaVsuToCOrl8kR1o0SboXV929Iw0eR6qOlInCDnXmEp9-mennIZsn_2Bkdh-qCi9GnbabNvAFIWYFTQH59tlgsD41HAEyVNg3bj7OHOS2x-c7RxXaIFt0rL2YRoeRJwQ?width=660&height=254&cropmode=none
+cover_detail: https://pe0qoq.bn.files.1drv.com/y4mmBpzTwanewOj228BMZ75zIS_BbHeXfReUpkXM6bW0n4w2YOODMLKe4iFXDTb7uSvegpFEPrkgu9BPYh_MhB7IfKaVsuToCOrl8kR1o0SboXV929Iw0eR6qOlInCDnXmEp9-mennIZsn_2Bkdh-qCi9GnbabNvAFIWYFTQH59tlgsD41HAEyVNg3bj7OHOS2x-c7RxXaIFt0rL2YRoeRJwQ?width=1300&height=500&cropmode=none
 ---
 
 卑弥呼だよ！☆（ゝω・）v ｷｬﾋﾟ

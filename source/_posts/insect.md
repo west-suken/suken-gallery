@@ -2,6 +2,8 @@
 title: 昆⾍の脚の数に関する考察
 date: 2019-09-08 13:03:30
 tags:
+cover_index: https://7u0poq.bn.files.1drv.com/y4mzqOXie5torutDfbZwKcM5HBCFfWv78EfL00Q91ZUrE_6i2SaarYBSMT6DOdrSAqqxf1Qrn45TdK9-N1NI9N7zEoyonipHWqqyICr8JsZlWaG_HR7fyX8i1-ynyX1EEXrnsFRO81Sxdewc8rt3Q6SsWME1JvBizofp2zMASrJIA2hUKlmvaUWfUmekH1VB1nrGXRQEDcNIwV8kKvYNc6jzg?width=660&height=254&cropmode=none
+cover_detail: https://7u0poq.bn.files.1drv.com/y4mzqOXie5torutDfbZwKcM5HBCFfWv78EfL00Q91ZUrE_6i2SaarYBSMT6DOdrSAqqxf1Qrn45TdK9-N1NI9N7zEoyonipHWqqyICr8JsZlWaG_HR7fyX8i1-ynyX1EEXrnsFRO81Sxdewc8rt3Q6SsWME1JvBizofp2zMASrJIA2hUKlmvaUWfUmekH1VB1nrGXRQEDcNIwV8kKvYNc6jzg?width=1300&height=500&cropmode=none
 ---
 
 by あんころもち

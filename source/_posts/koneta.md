@@ -1,8 +1,9 @@
 ---
-
 title: 小ネタ集
 date: 2019-09-03 21:43:02
 tags:
+cover_index: https://pe0ooq.bn.files.1drv.com/y4m4TVqPkDOkd-xczXQgz9GEmY745WVEWsrEckPKJPean61jWg8BKKQpf5v4cbdD--9wVP98D0szTkPKg_N-PWKYC-QF5ntAHCa-N3nGpKaET8DudZkU0pbPA6LRBcirOmHirOZ3gfwAEKqg0mjxWS5EYH_DL-qrTQ-u8qSkL8XieGmIZnEIm-z-14MbW3ilcb7_BYnynfIThHzSQZYtzBWPg?width=660&height=254&cropmode=none
+cover_detail: https://pe0ooq.bn.files.1drv.com/y4m4TVqPkDOkd-xczXQgz9GEmY745WVEWsrEckPKJPean61jWg8BKKQpf5v4cbdD--9wVP98D0szTkPKg_N-PWKYC-QF5ntAHCa-N3nGpKaET8DudZkU0pbPA6LRBcirOmHirOZ3gfwAEKqg0mjxWS5EYH_DL-qrTQ-u8qSkL8XieGmIZnEIm-z-14MbW3ilcb7_BYnynfIThHzSQZYtzBWPg?width=1300&height=500&cropmode=none
 ---
 $\newcommand{\ml}{\mathrm{ml}}$
 by HeLa220

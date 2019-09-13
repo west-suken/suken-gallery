@@ -2,6 +2,8 @@
 title: 「西高ウェイビュー」製作記
 date: 2019-09-10 22:45:47
 tags:
+cover_index: https://po0foq.bn.files.1drv.com/y4mdtw4tvBLR1LPQob4qQiP8nkDKFoiLs61eQslDRPnqPHCmrTtEuSHkTK44-jBp8a1q9_PpC46LvHrvXN6CS8DHWR4XKjhztU2m5pGjsQsT6_Z4xgLHpJIJUm_Kt0Xm80X8LfPnyk4HT8q_nLwX04INxhMzpke3VsO_a6yJ34NS4jXsPX4zJxUhwte3OeeoLuFKjdeH59Pxp6BvmPIzoQlrA?width=660&height=254&cropmode=none
+cover_detail: https://po0foq.bn.files.1drv.com/y4mdtw4tvBLR1LPQob4qQiP8nkDKFoiLs61eQslDRPnqPHCmrTtEuSHkTK44-jBp8a1q9_PpC46LvHrvXN6CS8DHWR4XKjhztU2m5pGjsQsT6_Z4xgLHpJIJUm_Kt0Xm80X8LfPnyk4HT8q_nLwX04INxhMzpke3VsO_a6yJ34NS4jXsPX4zJxUhwte3OeeoLuFKjdeH59Pxp6BvmPIzoQlrA?width=1300&height=500&cropmode=none
 ---
 
 by ポワロファン

@@ -8,7 +8,7 @@ cover_detail: https://7u0moq.bn.files.1drv.com/y4mQaqN6QFROz1lMnVUfHjAOr_YoySJ6d
 
 by T@S
 
-LaTeX source file is available.
-<script src="https://pastebin.com/embed_js/EpaN2RWF"></script>
-
 <iframe class="post-iframe" src="https://onedrive.live.com/embed?cid=36BB633BE091BD31&resid=36BB633BE091BD31%2142417&authkey=AGv0ogXalPTzMjE&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
+
+LaTeX source file is available.
+<iframe src="https://pastebin.com/embed_iframe/EpaN2RWF" style="border:none;width:100%"></iframe>

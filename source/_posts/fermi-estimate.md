@@ -2,6 +2,8 @@
 title: フェルミ推定 - アメリカのシカゴにはピアノ調律師が何人いるか？
 date: 2019-08-28 17:38:57
 tags:
+cover_index: https://pe0joq.bn.files.1drv.com/y4mnbOwlaRHFPqvZsygJCpKn7jnd6BkGemE1GH0LXKUyoIgLRi1BMsaA84QNTOgCjS-g6gP1eTYeq2zCboOuQt20IHji_JWqapxMIsAEoQfDvD5fL6ZqjqRsKv3u-Hh-saEc0QpPFg9liAyIT1Fhdc3V-ErcHTajsEpv8wjl1hVjFOTajjBsOPKHCF8_FKJd68gB5bq4b3X5piMZt0CSCE6bA?width=660&height=254&cropmode=none
+cover_detail: https://pe0joq.bn.files.1drv.com/y4mnbOwlaRHFPqvZsygJCpKn7jnd6BkGemE1GH0LXKUyoIgLRi1BMsaA84QNTOgCjS-g6gP1eTYeq2zCboOuQt20IHji_JWqapxMIsAEoQfDvD5fL6ZqjqRsKv3u-Hh-saEc0QpPFg9liAyIT1Fhdc3V-ErcHTajsEpv8wjl1hVjFOTajjBsOPKHCF8_FKJd68gB5bq4b3X5piMZt0CSCE6bA?width=1300&height=500&cropmode=none
 ---
 
 はいどうも皆さんこんにちは、ケントの花から万有引力の法則を発見したニュートンです。

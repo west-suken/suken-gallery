@@ -2,6 +2,8 @@
 title: ライフ・ゲーム
 date: 2019-08-29 21:51:31
 tags:
+cover_index: https://pe0foq.bn.files.1drv.com/y4mi1siwIzefpZbFTo7fkECjD9rd8KRHQH-G_7IgpmAFLQFGAbAP49HRszj65Th5DIROsPmFvFcUoeDNU0gpKqVJlqCMijG5rOAAjELDyEr_Mt_970nPjLg_-I8-YTQ7a2u_f0FLXy0Ds9_Q5HWpu6OtptJEIQateGKBIxpN5JDAjkky8WcjmlpJPeeEEq2OHDrOVKCIOvQ_YshsDYzH9WCxg?width=660&height=254&cropmode=none
+cover_detail: https://pe0foq.bn.files.1drv.com/y4mi1siwIzefpZbFTo7fkECjD9rd8KRHQH-G_7IgpmAFLQFGAbAP49HRszj65Th5DIROsPmFvFcUoeDNU0gpKqVJlqCMijG5rOAAjELDyEr_Mt_970nPjLg_-I8-YTQ7a2u_f0FLXy0Ds9_Q5HWpu6OtptJEIQateGKBIxpN5JDAjkky8WcjmlpJPeeEEq2OHDrOVKCIOvQ_YshsDYzH9WCxg?width=1300&height=500&cropmode=none
 ---
 
 ライフゲームは１９６０年代にケンブリッジ大学でジョン・ホートン・コンウェーによって作られた。

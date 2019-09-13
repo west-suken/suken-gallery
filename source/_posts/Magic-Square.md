@@ -2,6 +2,8 @@
 title: 魔方陣
 date: 2019-09-11 23:19:32
 tags:
+cover_index: https://7u0ooq.bn.files.1drv.com/y4mMaKkUCrXlGNo-UWOQOCfgnIxAZhG0G6oOeuR22-KI8ppvhzG5WzfNULEDNjsP2BMy_kQBfpQYhlHUMGMKbYQhKelIHoEBW2AOjfYcoAhcUyDRjXRjcS4gRH6YzGRY2_Y9A5VLHmSCJ6PUiiLq2PprwtC9CrYtRYPWJ6kO2GBX1y1UMTR_3FSg49bbVgP60XQ5yOFNfvgGtUlq7x6UpXqHw?width=660&height=254&cropmode=none
+cover_detail: https://7u0ooq.bn.files.1drv.com/y4mMaKkUCrXlGNo-UWOQOCfgnIxAZhG0G6oOeuR22-KI8ppvhzG5WzfNULEDNjsP2BMy_kQBfpQYhlHUMGMKbYQhKelIHoEBW2AOjfYcoAhcUyDRjXRjcS4gRH6YzGRY2_Y9A5VLHmSCJ6PUiiLq2PprwtC9CrYtRYPWJ6kO2GBX1y1UMTR_3FSg49bbVgP60XQ5yOFNfvgGtUlq7x6UpXqHw?width=1300&height=500&cropmode=none
 ---
 
 by φ川

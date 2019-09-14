@@ -20,7 +20,7 @@ by T@S
 コッホの雪片というものをご存知だろうか.
 それは, フラクタル図形の一種で, 下の図のようなものである.
 
-![](https://9o0noq.bn.files.1drv.com/y4m9tEMnW3nqCEqyn1K2HVLjLESSyAoaVrvXqloTO96-u1F0lNV3ZzKR3PX8tcI_xwQ-DHH1XKCvXJlfmB5MyZ9QiR007783oEo1mYNFJ_9uOCSjWoaUlJKmeoj2p2AHj4UY70jfKVWG93N4qJ8rP_P1aHgRL9QstgVk09XxmSpMGfj_dyUWK6rtO268bcBy6vVj3O19O9_X0ruy_s1HzL7rA?width=843&height=944&cropmode=none)
+![](https://9o0noq.bn.files.1drv.com/y4m9tEMnW3nqCEqyn1K2HVLjLESSyAoaVrvXqloTO96-u1F0lNV3ZzKR3PX8tcI_xwQ-DHH1XKCvXJlfmB5MyZ9QiR007783oEo1mYNFJ_9uOCSjWoaUlJKmeoj2p2AHj4UY70jfKVWG93N4qJ8rP_P1aHgRL9QstgVk09XxmSpMGfj_dyUWK6rtO268bcBy6vVj3O19O9_X0ruy_s1HzL7rA?width=229&height=256&cropmode=none)
 
 この図形は, 各線分を3 等分し, 中央の線分を1 辺とする正三角形を作り, 中央の線分を消
 去する, という簡単な操作を繰り返し行うことで現れるものである. 正三角形から始めたもの

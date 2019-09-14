@@ -2,6 +2,8 @@
 title: 大円の中に、２つずつその円に入る最大の円を入れていってみたら…
 date: 2019-09-08 11:08:39
 tags:
+cover_index: https://pe0goq.bn.files.1drv.com/y4mSRUL88I-aSjPQdjFLTfDZgf67oqhEkANr0cfggxiXV0xs3UThp0rg7_OD_uXalTbSR9Q8GSzZfBizAxXsOLlqwJnqBekZw4YvUZ-XIvSBoT0kpxs0Xc5ygD0kdWVYJs36XZukx2iWrM4gjfX1EuOtfeaWnzda3ipW0pfdoIe9Q3eC9ZqiZa8lc0roTr6AVaLQfMi6S0beFQyxvatE4-ZUw?width=660&height=254&cropmode=none
+cover_detail: https://pe0goq.bn.files.1drv.com/y4mSRUL88I-aSjPQdjFLTfDZgf67oqhEkANr0cfggxiXV0xs3UThp0rg7_OD_uXalTbSR9Q8GSzZfBizAxXsOLlqwJnqBekZw4YvUZ-XIvSBoT0kpxs0Xc5ygD0kdWVYJs36XZukx2iWrM4gjfX1EuOtfeaWnzda3ipW0pfdoIe9Q3eC9ZqiZa8lc0roTr6AVaLQfMi6S0beFQyxvatE4-ZUw?width=1300&height=500&cropmode=none
 ---
 
 by sabandhu

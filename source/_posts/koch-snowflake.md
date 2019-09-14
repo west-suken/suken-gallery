@@ -2,6 +2,8 @@
 title: コッホの雪片を$n$次元化してみたかった.
 date: 2019-08-28 17:37:54
 tags:
+cover_index: https://po0moq.bn.files.1drv.com/y4mStJhcWo8P7fK6WVNXmNuPDXHz4v23m-AqYbBh_EU6BkBSLRTQVQQejoUBnuyirtXA03KeKXPRNcgpWo0_bH1yw6LAKRrUhY4UmZuUKConHdkZnB364MdnxUTllYibnIXIUn2zT-NW1izTyEFDjPnJb2CplwM41Fo7eRDQ82CdTHoWBdXZ-21qm5O90a9g9vWcddrltMnqwuhHu6TdCeYSg?width=660&height=254&cropmode=none
+cover_detail: https://po0moq.bn.files.1drv.com/y4mStJhcWo8P7fK6WVNXmNuPDXHz4v23m-AqYbBh_EU6BkBSLRTQVQQejoUBnuyirtXA03KeKXPRNcgpWo0_bH1yw6LAKRrUhY4UmZuUKConHdkZnB364MdnxUTllYibnIXIUn2zT-NW1izTyEFDjPnJb2CplwM41Fo7eRDQ82CdTHoWBdXZ-21qm5O90a9g9vWcddrltMnqwuhHu6TdCeYSg?width=1300&height=500&cropmode=none
 ---
 
 $$
@@ -186,9 +188,6 @@ $$
 ### 5.3 極限(メモ)
 
 式の意味は見ればきっとわかると思うので列挙する. 式の意味もあえて書かないでおいてみる.
-$$
-V(n,k)=\frac{\sqrt{n+1}}{\sqrt{2^n}\cdot\Gamma(n+1)}\left(1+\frac{n^k(n+1)}{3^{nk}(3^n-n)}\right)
-$$
 
 $$
 \begin{align\*}
@@ -206,7 +205,7 @@ $$
  このように定義を拡張したことで, 表面積が収束してしまうようになった. その差異はもち
 ろん, 操作を進めたときの表面積の増え方が緩やかになってしまっているということだ. 本来
 のコッホの雪片と同じような増え方をするような定義にできないか考えたこともあったが, ど
-う頑張っても辺が重なってしまったので諦めたが, 一応それっぽい拡張ができたので, 今回は
+う頑張っても辺が重なってしまったので諦めた. しかし, 一応それっぽい拡張ができたので, 今回は
 それを採用することにした.
 
 ### 6.2 疲れの見えるあとがき
@@ -216,7 +215,7 @@ $$
 - ややこしすぎてフラクタル次元の話は諦めた
 - 去年のろくでもない問題よりはマシな出来
 - $ \LaTeX $ を使ってるから数式は他の誰よりも綺麗に表示できてる…と思う
-- PDF 形式で配布している方の部誌( 会誌…?) に $ \LaTeX $ の解説とか載せてあるかも
+- オンラインでしている方の部誌( 会誌…?) に $ \LaTeX $ の解説とかを載せた
 
 ## 7 謝辞
 

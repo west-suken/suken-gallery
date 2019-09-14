@@ -28,7 +28,7 @@ by さきちゃん (代筆: T@S)
 ### バージョン2
 ```java
 if(primes.get(i) > isPrime / 2)break;
-```  
+```
 
 (line: 25)  <br/>
 $N$が素数かどうか判定するとき、$\frac{N}{2}$以下の素数で割り切れなければ$N$が素数になるのは明らかなので変更。  
@@ -42,7 +42,7 @@ double isPsqrt = Math.pow(10 , Math.ceil(Math.floor(Math.log10(isPrime) + 1) / 2
 (line: 22(insert))  
 ```java
 primes.get(i) > isPsqrt
-```  
+```
 
 (line: 25)  <br/>
 ある自然数$N$が合成数であるとき、$N$は必ず$\sqrt{N}$以下の素因数を持つ、という事実と、  

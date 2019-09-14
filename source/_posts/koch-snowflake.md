@@ -1,5 +1,5 @@
 ---
-title: コッホの雪片を$n$次元化してみたかった.
+title: コッホの雪片をn次元化してみたかった.
 date: 2019-08-28 17:37:54
 tags:
 cover_index: https://po0moq.bn.files.1drv.com/y4mStJhcWo8P7fK6WVNXmNuPDXHz4v23m-AqYbBh_EU6BkBSLRTQVQQejoUBnuyirtXA03KeKXPRNcgpWo0_bH1yw6LAKRrUhY4UmZuUKConHdkZnB364MdnxUTllYibnIXIUn2zT-NW1izTyEFDjPnJb2CplwM41Fo7eRDQ82CdTHoWBdXZ-21qm5O90a9g9vWcddrltMnqwuhHu6TdCeYSg?width=660&height=254&cropmode=none
@@ -20,7 +20,7 @@ by T@S
 コッホの雪片というものをご存知だろうか.
 それは, フラクタル図形の一種で, 下の図のようなものである.
 
-![](https://7p34qg.bn.files.1drv.com/y4moieKBGP7_zqW-K-EyLnMfU33RHNCThoXmbRBKwT3wlfb0X8u-xY2kb_oD0xg5cc2hJ8P9SyHIDvU7rWjvPXg2zJA22rXDIo4XAhxTjS8j1jrgfY4Nt5cLERxT_JT8Y00Wotokh82tfu65g93RS-zd9eKjw3al9g9NVNW1DDnY2bs_GCfQHT8JnW6Tl5oj-mb5fECm8hij8A8msnZ4jS7TQ?width=256&height=253&cropmode=none)
+![](https://9o0noq.bn.files.1drv.com/y4m9tEMnW3nqCEqyn1K2HVLjLESSyAoaVrvXqloTO96-u1F0lNV3ZzKR3PX8tcI_xwQ-DHH1XKCvXJlfmB5MyZ9QiR007783oEo1mYNFJ_9uOCSjWoaUlJKmeoj2p2AHj4UY70jfKVWG93N4qJ8rP_P1aHgRL9QstgVk09XxmSpMGfj_dyUWK6rtO268bcBy6vVj3O19O9_X0ruy_s1HzL7rA?width=843&height=944&cropmode=none)
 
 この図形は, 各線分を3 等分し, 中央の線分を1 辺とする正三角形を作り, 中央の線分を消
 去する, という簡単な操作を繰り返し行うことで現れるものである. 正三角形から始めたもの

@@ -29,6 +29,7 @@ by さきちゃん (代筆: T@S)
 ```java
 if(primes.get(i) > isPrime / 2)break;
 ```  
+
 (line: 25)  <br/>
 $N$が素数かどうか判定するとき、$\frac{N}{2}$以下の素数で割り切れなければ$N$が素数になるのは明らかなので変更。  
 計算時間を約半分に短縮することに成功しました。
@@ -37,10 +38,12 @@ $N$が素数かどうか判定するとき、$\frac{N}{2}$以下の素数で割�
 ```java
 double isPsqrt = Math.pow(10 , Math.ceil(Math.floor(Math.log10(isPrime) + 1) / 2));
 ```
+
 (line: 22(insert))  
 ```java
 primes.get(i) > isPsqrt
 ```  
+
 (line: 25)  <br/>
 ある自然数$N$が合成数であるとき、$N$は必ず$\sqrt{N}$以下の素因数を持つ、という事実と、  
 $N>0$の時に、
@@ -58,6 +61,7 @@ $$
 ```java
 double isPsqrt = Math.pow(10 , (Math.ceil(Math.log10(isPrime)) / 2))
 ```
+
 (line: 22(insert))  <br/>
 切り捨てて1を加える操作を切り上げる操作に変更し、指数部分を切り上げないように変更しました。誤差だと言い切れるほどの速度向上ができました。
 
@@ -66,6 +70,7 @@ double isPsqrt = Math.pow(10 , (Math.ceil(Math.log10(isPrime)) / 2))
 ```java
 if(primes.get(i) > Math.sqrt(isPrime))break;
 ```
+
 (line: 25)  <br/>
 変なことをせずに素直に`Math.sqrt()`を使って平方根を求めたほうが高速に処理できることが判明しました。  
 このあたりから処理時間を計測するようなコードを追加していますが、ここでは割愛します。  
@@ -77,6 +82,7 @@ if(isPrime % primes.get(i) == 0){
 	flag = false;
 	break;
 ```
+
 (line: 26)  <br/>
 どういうわけか小さい数で割り切れても余りを求め続けていたので、T@Sが強引に変更しました。  
 微妙に高速化出来ました。
@@ -89,13 +95,14 @@ if(isPrime % primes.get(i) == 0){
 String message = Arrays.toString(primes.toArray());
 message = message.substring(1,message.length()-1);
 ```
+
 (lines: 34-37)  <br/>
 リストを出力する時にやたらと時間がかかっていることが判明したので、素数を格納しているリストをそのまま文字列に変換し、先頭の"["と末尾の"]"を削除するようにしました。  
 その結果、T@SのPCでは<strong>10,000,000個</strong>のリストの出力にかかる時間が<strong><font color=crimson>1分弱</font></strong>まで削減されました。  
 <s>文字列処理にどんだけ時間食ってんだよ……</s>  
 
 #### 最終版ソースコード
-<iframe src="https://pastebin.com/embed_iframe/rhmTHrPx" style="border:none;height:"256";width:100%"></iframe>  <br/>
+<iframe src="https://pastebin.com/embed_iframe/rhmTHrPx" style="border:none;height:256;width:100%"></iframe>  <br/>
 
 ## その後
 最終版コードを元に、新しい素数が見つかり次第テキストファイルに追記していくようなプログラムを書いてT@SのPCで放置してみたところ、$2^{31}-1\ {}_{\footnotesize{(=2147483647)}以下の105,097,565個の素数を全て出力するのにもわずか4時間程度しかかかりませんでした。ただ、こちらはファイルサイズが1GBを超えてしまっているので公開はしません。

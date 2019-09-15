@@ -49,11 +49,11 @@ primes.get(i) > isPsqrt
 $N>0$の時に、
 
 $$
-\begin{align*}
-  &10^{k-1}<N<10^k\\
-  \Leftrightarrow&\sqrt{10^{k-1}}<\sqrt{N}<\sqrt{x^k}\\
-  \Leftrightarrow&x^{\frac{k-1}{2}}<\sqrt{N}<x^{\frac{k}{2}}
-\end{align*}
+\begin{align\*}
+  &10^{k-1}< N <10^k\\\\
+  \Leftrightarrow&\sqrt{10^{k-1}}<\sqrt{N}<\sqrt{x^k}\\\\
+  \Leftrightarrow&x^{\frac{k-1}{2}}<\sqrt{N}< x^{\frac{k}{2}}
+\end{align\*}
 $$
 
 が成立することを利用して、$\sqrt{N}$をかなり粗く上から抑えています。<s>実はこれ、私(T@S)のアイデアです。</s>  

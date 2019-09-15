@@ -49,11 +49,11 @@ primes.get(i) > isPsqrt
 $N>0$の時に、
 
 $$
-\begin{align*}
-  &10^{k-1}<N<10^k\\
-  \Leftrightarrow&\sqrt{10^{k-1}}<\sqrt{N}<\sqrt{x^k}\\
-  \Leftrightarrow&x^{\frac{k-1}{2}}<\sqrt{N}<x^{\frac{k}{2}}
-\end{align*}
+\begin{align\*}
+  &10^{k-1}< N <10^k\\\\
+  \Leftrightarrow&\sqrt{10^{k-1}}<\sqrt{N}<\sqrt{x^k}\\\\
+  \Leftrightarrow&x^{\frac{k-1}{2}}<\sqrt{N}< x^{\frac{k}{2}}
+\end{align\*}
 $$
 
 が成立することを利用して、$\sqrt{N}$をかなり粗く上から抑えています。<s>実はこれ、私(T@S)のアイデアです。</s>  
@@ -107,7 +107,7 @@ message = message.substring(1,message.length()-1);
 <iframe src="https://pastebin.com/embed_iframe/rhmTHrPx" style="border:none;height:256;width:100%"></iframe>  <br/>
 
 ## その後
-最終版コードを元に、新しい素数が見つかり次第テキストファイルに追記していくようなプログラムを書いてT@SのPCで放置してみたところ、$2^{31}-1\ {}_{\footnotesize{(=2147483647)}以下の105,097,565個の素数を全て出力するのにもわずか4時間程度しかかかりませんでした。ただ、こちらはファイルサイズが1GBを超えてしまっているので公開はしません。
+最終版コードを元に、新しい素数が見つかり次第テキストファイルに追記していくようなプログラムを書いてT@SのPCで放置してみたところ、 $2^{31}-1\ {}_{\footnotesize{(=2147483647)}$ 以下の105,097,565個の素数を全て出力するのにもわずか4時間程度しかかかりませんでした。ただ、こちらはファイルサイズが1GBを超えてしまっているので公開はしません。
 
 ## おわりに
 このプログラム、実質T@Sとさきちゃんの共同制作物なんですよね。そのおかげで、私もさほど苦労せずにこの記事を(一から)代筆することが出来ました。  

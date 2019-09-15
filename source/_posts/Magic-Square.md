@@ -98,10 +98,10 @@ by φ111
 対角線の和が揃わない理由を考えたところ、導かれた結論は「魔方陣を構成する片方の魔方陣行列で、対角線上に同じ文字が存在してしまう(2つ目の条件を満たさない)から」だ。  
 この結論を導くうえで、魔方陣のそれぞれのマスを座標で表せるようにしたい。魔方陣を次のような座標平面に見立てる。  
 ![img7](https://po0joq.bn.files.1drv.com/y4mmgCno2Mx7fz9BQ18kQBQpD6xIV33oIXhjXIR8C2ZzFlDJsYgIFXtObC9l-26OqOneYYck29I_TF2Gav7_q7RnWP1RP8g0m-ETKa3xAe_ZKxBm0I7zIhjePalPaHqBhhDcrEf_E98alSs2lVTVZ7sg0zMJwoE8xAWZXYdRih6uUEgy75C4XtBYkU5N34dgkVzurxA8s-SrHNa5s51eF6jjg?width=400&height=296&cropmode=none)  
-そして、最初の魔方陣行列の桂馬飛びの動きを式で表すと、次のようになる。
+そして、最初の魔方陣行列の桂馬飛びの動きを式で表すと、次のようになる。( $a$ は実数)
 $$y\equiv2x+a\pmod{9}\ \ \ \ \text{ - (1)}$$
 ここで、法を9としているのは、行と列の数が9だからである。  
-また、2つ目の魔方陣行列の桂馬飛びの動きは、次のようになる。
+また、2つ目の魔方陣行列の桂馬飛びの動きは、次のようになる。 ( $b$ は実数)
 $$y\equiv-2x+b\pmod{9}\ \ \text{ - (2)}$$
 対角線についても同様に式で表す。1つ目は左下から右上に向かうものである。
 $$y\equiv x\pmod{9}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \text{ - (3)}$$
@@ -111,9 +111,9 @@ $$y\equiv-x+8\pmod{9}\ \ \ \ \text{ - (4)}$$
 色)。重複したマスは灰色で示している。  
 ![img8](https://po0koq.bn.files.1drv.com/y4m0vsQJWn3iWXE9K2n5cYNRWFAQX6onsgk9AHFoSQ-VU7Kkh3dSdgmpL-eoMlNxA8G0YCfmV0lY8sq5W_mzcQ5lRLObeKu_5hYDQSBg9TCsSek6bBcbkywHDHiXP231MxsianuLhLaWdol1308iFO9sR2rn4cz1sEI3uVd_rLXIEeq_soJg6t15QkkxHoRjZNMcWjKZ3cTTP1bXoCcGDkG4A?width=400&height=347&cropmode=none)  
 式で示すと、$y$を消去して、
-$$2x+x=-x+8$$
+$$2x+x\equiv -x+8$$
 したがって、
-$$3x=6$$
+$$3x\equiv 6$$
 これを満たす$x$は、$0\leq x\leq8$の範囲では、$x=2,\ 5,\ 8$。よって、重複が存在することになる。  
 一般に、行数・列数が3の倍数の時、桂馬飛びによって対角線がそろわなくなる。これは桂馬飛びの係数の2と、斜めの係数の1が移項されて3となり、3の倍数が法の時に解が複数存在してしまうからである。<br/><br/>
 以上より、この方法は大きさが3の倍数の場合に適用できないということが示された。

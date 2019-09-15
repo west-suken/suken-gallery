@@ -54,7 +54,7 @@ $$
 
 ![](https://po31qg.bn.files.1drv.com/y4mP1lmm5SoBI5bEJKP2pwLBnfMRNqWr6PcwmTfB4C2Z8ao1IIwPyhf6ryG-gwoExIlWMXym-3xT8YNLzwVSefbzV1DDiYMtlTsNZ3B8ssbUvAxNfMaWM6OlF53sdxTqr0zyU-Bxwl7Uw7t6OgEHp-WY6SOswAryHcLYhOoHuikRzAwSX4hAtHJnmcPA29vKGt5ohHlewSJo-lqh_2HEorg7A?width=643&height=253&cropmode=none)
 
-(ウィキペディア：超級の体積 より引用)
+([超球の体積 - Wikipedia](https://ja.wikipedia.org/wiki/%E8%B6%85%E7%90%83%E3%81%AE%E4%BD%93%E7%A9%8D) より引用)
 
 は？（理解不能）
 

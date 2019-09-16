@@ -22,17 +22,17 @@ by 32q
 プルスウルトラソサエティとは、秘密結社プルスウルトラのホームページだ。<br/>
 こちらは、頑張れば解けるが割とアイデアと手間が必要とされる。暗号初心者にはお勧めの楽しい暗号だ。暗号を解かなければサイトに入ることはできないが、入ったらニコラ・テスラのタイムマシン設計図とか、テスラコイルの構造とか見れるので面白い。<br/>
 ただし全部英語なので、英弱の私は毎回頭が混乱する。ほかの暗号につながるようなこともちりばめられているので、やってみるとよいだろう。 ヒントは、モールス信号と座標である。そしてこれはほぼ答えだ。あ、ヒントなしでやりたかった人は、見なかったことにしよう。私の知る限り、ネットに答えが書かれたサイトはなかったので自力で頑張ってくれたまえ。<br/>
-<img src="" /><br/>
+<img src="https://9p2mla.bn.files.1drv.com/y4muw7DkvU_644_5L0JOIcfywR-c7wiEJ5RRCXYrxXAZWjZ8Lgj78BZkAYL6Pj-vHTKcL2s1Jh4odbVryl2r-sRRGTCCIMDzQBXsaA8_ZGHaudjmvuCNnqaVwwP3fLrPRhYzAlA5Nn2_UnyCxHZoR7wFipDr88U_z1v0jjclCCJgbrItTY-uVHOg6zT_Ol3krZHaNn14KBUMa8limLX6TuoQQ?width=755&height=352&cropmode=none" width="755" height="352" /><br/>
 ↑あやしいじっけんをするにこらてすらさん<s>(ステラじゃないよ)</s><br/>
 (出典: [エジソンより１００万テラワット分偉い発明家、ニコラ・テスラ - Hana.bi | Japan + YOU](https://hana.bi/2014/03/nikolatesla-edison/))  
 <font size="1">かんそう: Naniwoyatterunokabonnjinnnowatasinihasapparirikaidekimasenndesita. haha.</font><br/>
 ↓プルスウルトラの創設者たち。貴方の知ってる人はいましたか？ え？ 知ってる人しかいないって？<br/>
-<img src="" /><br/>
+<img src="https://9p2ola.bn.files.1drv.com/y4mw9WC6KxGeU3KuWM8wien9YJQfAIVjNRXZ__bvH6F6JfaW2feIMo08naJJFZvG7ePOmQoDscUBrCc3Rqc3h6yfZ9dmn1s9H9bgx4lzUr4-ggVmtInhFJjrWf_m4i8mpNj8XV9TR2nt_NBT3faYP9wbNqhH20AGizwITlUiqMHe9kO0zZy70kgxRM24UzPoTSPPUF8SXOxuRn8ytecHE4Ing?width=1266&height=241&cropmode=none" width="1266" height="241" /><br/>
 (出典: [No.005 ウォルト・ディズニーの都市伝説 – 受け継がれるＤの意志② – | 世に蔓延る都市伝説](http://urbanlegend-z.com/disney005/))<br/>
 
 ## トゥモローランド
 こちらは、何年か前に放映されたデ〇ズニー映画である。デ〇ズニーランド内のトゥモローランドとも地味に関係してたりする。筆者の感想としては普通に面白かった。また、こちらも映画内にフリーメイソンだったり、先ほど紹介したプルスウルトラが出てきたり、いろいろちりばめられている。実に興味深い。(ガリレオ風)今すぐにT〇UTAYAに行って借りてくることを強くお勧めする。その際、スタンドバイミーと、シャイニングも忘れず借りることに注意しよう。(可能であればLEONも)<br/>
-<img src="" /><br/>
+<img src="https://9p2pla.bn.files.1drv.com/y4mvxjmIKIFMjeRs6lvejwLez0hDYvK2zCmv8RO93jUVXqqrqm3op-NzL3Q38UyJmSw5LHamMuFb3O_Bifz-knbyY-tPSqpro88bWsXjXaU7qvtAUag_EmGrc4U85xrC7b9-nSfj6bvrX1Whdl3jSxm506ukvT8iWV-_VjSAM0rgNuIZCxXTNX7_9fJMTWb4FlvYrPCyWlT-zx_67UbnebFuA?width=280&height=59&cropmode=none" width="280" height="59" /><br/>
 ↑映画のパンフレットの写真の一部で、この映画の一番話題となった暗号。私も途中までしかわかりませんでした。最後まで解けたら、謎の組織に協力の要請が来るらしい。ソースあり。4と5の間にかすかに点線が入っているところが味噌です。<br/>
 解こうと思ったそこのきみ。遅い。暗号解読者探しはもう締め切られました。私も久々に解こうとしたら途中のサイトまではいけましたが、そこから先のリンクが消されてました。がっかり。<br/>
 (出典: [(Brad Bird&#039;s Tomorrowland Teaser Trailer)](https://www.slashfilm.com/tomorrowland-teaser-trailer/))<br/>

@@ -14,6 +14,8 @@ Easy-To-Wait by shundroid, otray, shiro-alba
 
 ## 構造
 
+![](https://9p2nla.bn.files.1drv.com/y4mN7qD3qwj6pGFVMRO75rAARSZft-cnc3g_DKMT7Uv24mpY--4tlOJDcaNvVmFrxR6QfWSFrrTZS5vMX51RlghZ3I0nMvPfSXZJZSjWnR8swNUDywYUbz4PzSRvOSnkW8APnA_p8wIst_3JyyNxIvfuQPzCwdzEcLLlYKPfbXpPdekVew5CF1vQcQY13v6gGvOwXqreHF6yB6XIkeOaK7QrQ?width=711&height=671&cropmode=none)
+
 ## 共同開発
 
 このシステムを作るにあたって、Githubにて共同開発を取り入れました。

@@ -10,7 +10,7 @@ by 32q
 
 # お詫び
 編集側の不手際により未だに移植作業が完了していないため、紙面配布用の原本となったPDFファイルを一時的に公開しています。
-<iframe src="https://onedrive.live.com/embed?cid=36BB633BE091BD31&resid=36BB633BE091BD31%2142150&authkey=AOrP1w5Th8N188E&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
+<iframe class="post-iframe" src="https://onedrive.live.com/embed?cid=36BB633BE091BD31&resid=36BB633BE091BD31%2142150&authkey=AOrP1w5Th8N188E&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
 
 ---
 

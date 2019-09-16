@@ -24,7 +24,7 @@ by 32q
 プルスウルトラソサエティとは、秘密結社プルスウルトラのホームページだ。<br/>
 こちらは、頑張れば解けるが割とアイデアと手間が必要とされる。暗号初心者にはお勧めの楽しい暗号だ。暗号を解かなければサイトに入ることはできないが、入ったらニコラ・テスラのタイムマシン設計図とか、テスラコイルの構造とか見れるので面白い。<br/>
 ただし全部英語なので、英弱の私は毎回頭が混乱する。ほかの暗号につながるようなこともちりばめられているので、やってみるとよいだろう。 ヒントは、モールス信号と座標である。そしてこれはほぼ答えだ。あ、ヒントなしでやりたかった人は、見なかったことにしよう。私の知る限り、ネットに答えが書かれたサイトはなかったので自力で頑張ってくれたまえ。<br/>
-<img src="https://9p2mla.bn.files.1drv.com/y4muw7DkvU_644_5L0JOIcfywR-c7wiEJ5RRCXYrxXAZWjZ8Lgj78BZkAYL6Pj-vHTKcL2s1Jh4odbVryl2r-sRRGTCCIMDzQBXsaA8_ZGHaudjmvuCNnqaVwwP3fLrPRhYzAlA5Nn2_UnyCxHZoR7wFipDr88U_z1v0jjclCCJgbrItTY-uVHOg6zT_Ol3krZHaNn14KBUMa8limLX6TuoQQ?width=755&height=352&cropmode=none" width="755" height="352" /><br/>
+<img src="https://9p2mla.bn.files.1drv.com/y4muw7DkvU_644_5L0JOIcfywR-c7wiEJ5RRCXYrxXAZWjZ8Lgj78BZkAYL6Pj-vHTKcL2s1Jh4odbVryl2r-sRRGTCCIMDzQBXsaA8_ZGHaudjmvuCNnqaVwwP3fLrPRhYzAlA5Nn2_UnyCxHZoR7wFipDr88U_z1v0jjclCCJgbrItTY-uVHOg6zT_Ol3krZHaNn14KBUMa8limLX6TuoQQ?width=755&height=352&cropmode=none" width="453" height="211" /><br/>
 ↑あやしいじっけんをするにこらてすらさん<s>(ステラじゃないよ)</s><br/>
 (出典: [エジソンより１００万テラワット分偉い発明家、ニコラ・テスラ - Hana.bi | Japan + YOU](https://hana.bi/2014/03/nikolatesla-edison/))  
 <font size="1">かんそう: Naniwoyatterunokabonnjinnnowatasinihasapparirikaidekimasenndesita. haha.</font><br/>

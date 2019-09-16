@@ -6,6 +6,8 @@ cover_index: https://pe0loq.bn.files.1drv.com/y4m0yI6UtWU66yXlyggU6Fn2lUeiXWctha
 cover_detail: https://pe0loq.bn.files.1drv.com/y4m0yI6UtWU66yXlyggU6Fn2lUeiXWcthaHWrg6nTQOeL5sMbSECjPlTOq6_9HQs5y1sRCn8OQ1zUyk_m5PrTiIIjTiHhH5zJw6lzau0g_C8OnHKpkp-B3q2KixWTzK0K9dWdqqOYljdG9S7Ti1yf7ynVoScrOkVVMcI5ilIb11LS2qnalQ3l-hSOIaf3BdE126wGHpJDSE1PJW8IMhic254g?width=1300&height=500&cropmode=none
 ---
 
+by 13+1
+
 どうもこんにちは。13+1 です。今回の部誌の内容はどうしようかと考えていた時に、
 中学校の時に数学の用語で告白をしようとした先生がいたのを思い出したので利用させて頂きました！
 今回参考にしたのは数1の教科書です。

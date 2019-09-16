@@ -6,6 +6,8 @@ cover_index: https://pe0qoq.bn.files.1drv.com/y4mmBpzTwanewOj228BMZ75zIS_BbHeXfR
 cover_detail: https://pe0qoq.bn.files.1drv.com/y4mmBpzTwanewOj228BMZ75zIS_BbHeXfReUpkXM6bW0n4w2YOODMLKe4iFXDTb7uSvegpFEPrkgu9BPYh_MhB7IfKaVsuToCOrl8kR1o0SboXV929Iw0eR6qOlInCDnXmEp9-mennIZsn_2Bkdh-qCi9GnbabNvAFIWYFTQH59tlgsD41HAEyVNg3bj7OHOS2x-c7RxXaIFt0rL2YRoeRJwQ?width=1300&height=500&cropmode=none
 ---
 
+by Himiko
+
 卑弥呼だよ！☆（ゝω・）v ｷｬﾋﾟ
 
 ## はじめに

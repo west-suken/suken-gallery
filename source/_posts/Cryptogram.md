@@ -11,9 +11,11 @@ by 32q
 # お詫び
 編集側の不手際により未だに移植作業が完了していないため、紙面配布用の原本となったPDFファイルを一時的に公開しています。
 <iframe class="post-iframe" src="https://onedrive.live.com/embed?cid=36BB633BE091BD31&resid=36BB633BE091BD31%2142150&authkey=AOrP1w5Th8N188E&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
+<br/><br/>
 
 ---
 
+<br/><br/>
 突然だが、皆さんは暗号が好きだろうか。私は大好きである。ちなみに、都市伝説と納豆も大好きである。という話は長くなるのでさておき中二病患者のみんなも益々、暗号大好き星人になるようなネット上に転がる暗号をいくつか紹介していきたいと思う。
 
 ## プルスウルトラソサイエティ
@@ -35,6 +37,6 @@ by 32q
 <img src="https://9p2pla.bn.files.1drv.com/y4mvxjmIKIFMjeRs6lvejwLez0hDYvK2zCmv8RO93jUVXqqrqm3op-NzL3Q38UyJmSw5LHamMuFb3O_Bifz-knbyY-tPSqpro88bWsXjXaU7qvtAUag_EmGrc4U85xrC7b9-nSfj6bvrX1Whdl3jSxm506ukvT8iWV-_VjSAM0rgNuIZCxXTNX7_9fJMTWb4FlvYrPCyWlT-zx_67UbnebFuA?width=280&height=59&cropmode=none" width="280" height="59" /><br/>
 ↑映画のパンフレットの写真の一部で、この映画の一番話題となった暗号。私も途中までしかわかりませんでした。最後まで解けたら、謎の組織に協力の要請が来るらしい。ソースあり。4と5の間にかすかに点線が入っているところが味噌です。<br/>
 解こうと思ったそこのきみ。遅い。暗号解読者探しはもう締め切られました。私も久々に解こうとしたら途中のサイトまではいけましたが、そこから先のリンクが消されてました。がっかり。<br/>
-(出典: [(Brad Bird&#039;s Tomorrowland Teaser Trailer)](https://www.slashfilm.com/tomorrowland-teaser-trailer/))<br/>
+(出典: [Brad Bird&#039;s Tomorrowland Teaser Trailer](https://www.slashfilm.com/tomorrowland-teaser-trailer/))<br/>
 (注: 筆者から申告された引用元がファイルへの直リンクで、参照した記事が見つからなかったため別の記事に差し替えました。元の記事を見つけたらこっそりと教えて下さい。)<br/>
 

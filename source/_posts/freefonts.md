@@ -8,4 +8,4 @@ cover_detail: https://7u0moq.bn.files.1drv.com/y4mQaqN6QFROz1lMnVUfHjAOr_YoySJ6d
 
 by T@S
 
-<iframe src="https://onedrive.live.com/embed?cid=36BB633BE091BD31&resid=36BB633BE091BD31%2142455&authkey=ABhcquYfn7KVYqk&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
+<iframe class="post-iframe" src="https://onedrive.live.com/embed?cid=36BB633BE091BD31&resid=36BB633BE091BD31%2142455&authkey=ABhcquYfn7KVYqk&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>

@@ -29,7 +29,7 @@ by 32q
 (出典: [エジソンより１００万テラワット分偉い発明家、ニコラ・テスラ - Hana.bi | Japan + YOU](https://hana.bi/2014/03/nikolatesla-edison/))  
 <font size="1">かんそう: Naniwoyatterunokabonnjinnnowatasinihasapparirikaidekimasenndesita. haha.</font><br/>
 ↓プルスウルトラの創設者たち。貴方の知ってる人はいましたか？ え？ 知ってる人しかいないって？<br/>
-<img src="https://9p2ola.bn.files.1drv.com/y4mw9WC6KxGeU3KuWM8wien9YJQfAIVjNRXZ__bvH6F6JfaW2feIMo08naJJFZvG7ePOmQoDscUBrCc3Rqc3h6yfZ9dmn1s9H9bgx4lzUr4-ggVmtInhFJjrWf_m4i8mpNj8XV9TR2nt_NBT3faYP9wbNqhH20AGizwITlUiqMHe9kO0zZy70kgxRM24UzPoTSPPUF8SXOxuRn8ytecHE4Ing?width=1266&height=241&cropmode=none" width="1266" height="241" /><br/>
+<img src="https://9p2ola.bn.files.1drv.com/y4mw9WC6KxGeU3KuWM8wien9YJQfAIVjNRXZ__bvH6F6JfaW2feIMo08naJJFZvG7ePOmQoDscUBrCc3Rqc3h6yfZ9dmn1s9H9bgx4lzUr4-ggVmtInhFJjrWf_m4i8mpNj8XV9TR2nt_NBT3faYP9wbNqhH20AGizwITlUiqMHe9kO0zZy70kgxRM24UzPoTSPPUF8SXOxuRn8ytecHE4Ing?width=1266&height=241&cropmode=none" width="422" height="80" /><br/>
 (出典: [No.005 ウォルト・ディズニーの都市伝説 – 受け継がれるＤの意志② – | 世に蔓延る都市伝説](http://urbanlegend-z.com/disney005/))<br/>
 
 ## トゥモローランド

@@ -22,12 +22,12 @@ by 32q
 プルスウルトラソサエティとは、秘密結社プルスウルトラのホームページだ。<br/>
 こちらは、頑張れば解けるが割とアイデアと手間が必要とされる。暗号初心者にはお勧めの楽しい暗号だ。暗号を解かなければサイトに入ることはできないが、入ったらニコラ・テスラのタイムマシン設計図とか、テスラコイルの構造とか見れるので面白い。<br/>
 ただし全部英語なので、英弱の私は毎回頭が混乱する。ほかの暗号につながるようなこともちりばめられているので、やってみるとよいだろう。 ヒントは、モールス信号と座標である。そしてこれはほぼ答えだ。あ、ヒントなしでやりたかった人は、見なかったことにしよう。私の知る限り、ネットに答えが書かれたサイトはなかったので自力で頑張ってくれたまえ。<br/>
-<img src="" /><br/>
+<img src="https://9p2mla.bn.files.1drv.com/y4muw7DkvU_644_5L0JOIcfywR-c7wiEJ5RRCXYrxXAZWjZ8Lgj78BZkAYL6Pj-vHTKcL2s1Jh4odbVryl2r-sRRGTCCIMDzQBXsaA8_ZGHaudjmvuCNnqaVwwP3fLrPRhYzAlA5Nn2_UnyCxHZoR7wFipDr88U_z1v0jjclCCJgbrItTY-uVHOg6zT_Ol3krZHaNn14KBUMa8limLX6TuoQQ?width=755&height=352&cropmode=none" width="755" height="352" /><br/>
 ↑あやしいじっけんをするにこらてすらさん<s>(ステラじゃないよ)</s><br/>
 (出典: [エジソンより１００万テラワット分偉い発明家、ニコラ・テスラ - Hana.bi | Japan + YOU](https://hana.bi/2014/03/nikolatesla-edison/))  
 <font size="1">かんそう: Naniwoyatterunokabonnjinnnowatasinihasapparirikaidekimasenndesita. haha.</font><br/>
 ↓プルスウルトラの創設者たち。貴方の知ってる人はいましたか？ え？ 知ってる人しかいないって？<br/>
-<img src="" /><br/>
+<img src="https://9p2ola.bn.files.1drv.com/y4mw9WC6KxGeU3KuWM8wien9YJQfAIVjNRXZ__bvH6F6JfaW2feIMo08naJJFZvG7ePOmQoDscUBrCc3Rqc3h6yfZ9dmn1s9H9bgx4lzUr4-ggVmtInhFJjrWf_m4i8mpNj8XV9TR2nt_NBT3faYP9wbNqhH20AGizwITlUiqMHe9kO0zZy70kgxRM24UzPoTSPPUF8SXOxuRn8ytecHE4Ing?width=1266&height=241&cropmode=none" width="1266" height="241" /><br/>
 (出典: [No.005 ウォルト・ディズニーの都市伝説 – 受け継がれるＤの意志② – | 世に蔓延る都市伝説](http://urbanlegend-z.com/disney005/))<br/>
 
 ## トゥモローランド

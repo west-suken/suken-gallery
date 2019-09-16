@@ -8,6 +8,12 @@ cover_detail: https://7u0noq.bn.files.1drv.com/y4mXLK6nGnmIzDYGdFOZdReszw2DMamOB
 
 by 32q
 
+# お詫び
+編集側の不手際により未だに移植作業が完了していないため、紙面配布用の原本となったPDFファイルを一時的に公開しています。
+<iframe src="https://onedrive.live.com/embed?cid=36BB633BE091BD31&resid=36BB633BE091BD31%2142150&authkey=AOrP1w5Th8N188E&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
+
+---
+
 突然だが、皆さんは暗号が好きだろうか。私は大好きである。ちなみに、都市伝説と納豆も大好きである。という話は長くなるのでさておき中二病患者のみんなも益々、暗号大好き星人になるようなネット上に転がる暗号をいくつか紹介していきたいと思う。
 
 ## プルスウルトラソサイエティ

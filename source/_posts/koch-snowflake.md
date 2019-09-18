@@ -35,7 +35,7 @@ by T@S
 0. $\ell_0=3$, $S_0=\frac{\sqrt{3}}{4}$
 1. この図形は, ステップが進むごとに周長が$\frac{4}{3}$倍される. そのため,$$\lim_{k\to\infty}\ell_k=\lim_{k\to\infty}\ 3\cdot\left(\frac{4}{3}\right)^k=\infty$$より,周の長さは$k\to\infty$で発散する.
 2. $S_{k+1}-S_k=3\cdot 4^k\cdot \frac{\sqrt{3}}{4}\cdot \left(\frac{1}{3^{k+1}}\right)^2$である(証明略)ので,
-$$\lim_{k\to\infty}\ S_k=\frac{\sqrt{3}}{4}+\sum_{k=1}^{\infty}\ 3\cdot 4^k\cdot \frac{\sqrt{3}}{4}\cdot \left(\frac{1}{3^{k+1}}\right)^2=\frac{\sqrt{3}}{4}\cdot\frac{8}{5}$$より, 面積は$k\to\infty$で$\frac{2\sqrt{3}}{5}$に収束する.
+$$\lim_{k\to\infty}\ S_k=\frac{\sqrt{3}}{4}+\sum_{k=0}^{\infty}\ 3\cdot 4^k\cdot \frac{\sqrt{3}}{4}\cdot \left(\frac{1}{3^{k+1}}\right)^2=\frac{\sqrt{3}}{4}\cdot\frac{8}{5}$$より, 面積は$k\to\infty$で$\frac{2\sqrt{3}}{5}$に収束する.
 
 ## 3 拡張してみる
 

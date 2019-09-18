@@ -6,6 +6,8 @@ cover_index: https://pe0poq.bn.files.1drv.com/y4mua6toLfnWmgb1MphYH60ejZoxdSdLYv
 cover_detail: https://pe0poq.bn.files.1drv.com/y4mua6toLfnWmgb1MphYH60ejZoxdSdLYvzWhebbXj4enfon_J1D_R9f50qLtTUYfIhmSO7l6zyIurlZ5UhT6qabRKp_zF_P2WyjIvPhcBVsi-VG1WUvL1-amNAHHPLLx3eeEektuZYo6GpAS6dZzpJWdi1A6m0bbb4pmoC79UhVcXL_rFjcaXFgsBAEsUS4IxEi17gHVbuhIyzTa40CrjtyQ?width=1300&height=500&cropmode=none
 ---
 
+by もやっしー
+
 この記事（茶番）は約５分で読めます
 
 こんにちは！筆者です！

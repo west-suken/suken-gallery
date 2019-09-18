@@ -56,7 +56,7 @@ by 32Q
 (出典(右)[国文研の古典籍データで蝉丸の塗り絵を作りました - やわらか図書館学](http://yawatosho.hateblo.jp/entry/2016/11/14/220523))<br/>
 この書き込みを見つけ、暗号の解読に最初に着手したのがスウェーデン人のジョエル・エリクソン氏。彼はコンピューターアナリストであった。<br/>
 このせみmar…ではなく、蝉の画像には、デジタルステガノグラフティという画像の中にデータを織り込ませる技術が使われており、彼はそれをソフトを使って解読した。その文字列がこちら。<br/>
-> TIBERIVS CLAVDIVS CAESAR says “lxxt>33m2mqkyv2gsq3q=w]O2ntk”
+<q>TIBERIVS CLAVDIVS CAESAR says “lxxt>33m2mqkyv2gsq3q=w]O2ntk”</q>
 普段、情報の授業をまじめに受けているみんななら当然わかるだろうが、これはシーザー暗号である。<br>
 "ｌｘｘｔ"とかばりばり、"ｈｔｔｐ"ですよねー(笑)というかそもそもCEASARって書いてあるし。で、そのURLに行ってたどり着いたのがこの画像だ。<br/>
 <img src=""><br/>
@@ -70,7 +70,7 @@ by 32Q
 <img src=""><br/>
 (出典: [10 Bizarre Mysteries From Around The World - Listverse](https://listverse.com/2014/02/18/10-bizarre-mysteries-from-around-the-world/))<br/>
 蝉のマークとQRコードがかかれたポスターである。またこれから、いろいろあるのだが、最終的に<br/>
-> "You've shared too much to this point. We want the best, not the followers. Thus, the first few there will receive the prize. Good luck."<br/>
+<q>"You've shared too much to this point. We want the best, not the followers. Thus, the first few there will receive the prize. Good luck."</q><br/>
 というコメントが送られてきた。どうやら、協力して暗号を解いていたことがあまり面白くないようだ。（ここで西高の自主自立に精神の大切さを実感できる。<br/>
 これから数か月後、「我々は探していた人材を見つけました。いまのところ、活動を休止する」という趣旨のメッセージが送られてきて、いったんこの事件は収束する。しかし、1年後再び捜索が開始される。また暗号が送られて、それをヘブライ語やルーン文字で解析した結果、世界7か国の都市が導き出されたのだ。<br/>
 なんと、驚くことにその国の一つに日本も入っていた。その名も、O☆K☆I☆N☆W☆A。もうかくのつかれたので、ここからは、みんなで頑張ってください。
@@ -103,7 +103,7 @@ $$C\equiv p^e\pmod{2819}$$
 <font color="gray">「私はこの命題の真に驚くべき証明をもっているが、余白が狭すぎるのでここに記すことはできない」嘘です。書けます。でも、もう私の気力が持たないので勘弁して。 後まで知りたい人は自力で頑張れ♡</font><br/>
 (注: <a href="#1">最後に適当に追記しました。</a>)
 <img src=""><br/>
-> こんにっちはーーーーーーーーー！ みんな大好きふぇるまーだよー。元気に数学ライフ送ってますかぁー♡今ならもれなく最終定理プレゼントしちゃうよー<br/>
+<q>こんにっちはーーーーーーーーー！ みんな大好きふぇるまーだよー。元気に数学ライフ送ってますかぁー♡今ならもれなく最終定理プレゼントしちゃうよー</q><br/>
 (出典: [Fermat Portraits](http://www-groups.dcs.st-and.ac.uk/~history/PictDisplay/Fermat.html))<br/>
 <font size="1">(注: 申告された引用元は以下略)<u></u></font><br/>
 

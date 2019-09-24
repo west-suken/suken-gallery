@@ -2,8 +2,6 @@
 title: 音楽と数学
 date: 2019-09-15  00:59 -0700
 tags: 
-cover_index: https://7u0moq.bn.files.1drv.com/y4mQaqN6QFROz1lMnVUfHjAOr_YoySJ6dyTgFk8Fulb-QI_keHruv4Z_3xSnQZ2aF3JQM_RBV98CEp_c7BLSiMlJ73IRInR61Gg0nEbPdPjjVaqbQAAmoauD2qeQnyF1N9tk1sN-apQtyAt8saxDAKK102wd6cJet94kgBGccs4i_E6S2PZ6-dwRs7Lffwu-btxB5syNNok4UBxCWBQOPndQA?width=1300&height=500&cropmode=none
-cover_detail: https://7u0moq.bn.files.1drv.com/y4mQaqN6QFROz1lMnVUfHjAOr_YoySJ6dyTgFk8Fulb-QI_keHruv4Z_3xSnQZ2aF3JQM_RBV98CEp_c7BLSiMlJ73IRInR61Gg0nEbPdPjjVaqbQAAmoauD2qeQnyF1N9tk1sN-apQtyAt8saxDAKK102wd6cJet94kgBGccs4i_E6S2PZ6-dwRs7Lffwu-btxB5syNNok4UBxCWBQOPndQA?width=1300&height=500&cropmode=none
 ---
 
 by ハルヲ
@@ -28,7 +26,7 @@ by ハルヲ
 2.  長、短音程  
   二度、三度、六度、七度は長音程、短音程の二種類があります。ドを基準にレ、ミ、ラ、シまでの音程が長二、三、六、七度でそれぞれ半音一個分下げると短二、三、六、七度となります。
 
-##コード進行法
+## コード進行法
 前置きも終わり、ここから本題に移ろうと思います。  
 コードとはすなわち和音のことで、音楽の伴奏であるコードの組み合わせ方
 には法則があります。  

@@ -8,13 +8,6 @@ cover_detail: https://7u0noq.bn.files.1drv.com/y4mXLK6nGnmIzDYGdFOZdReszw2DMamOB
 
 by 32Q
 
-# お詫び
-編集側の不手際により未だに移植作業が完了していないため、途中から画像が表示されません。
-<br/><br/>
-
----
-
-<br/><br/>
 突然だが、皆さんは暗号が好きだろうか。私は大好きである。ちなみに、都市伝説と納豆も大好きである。という話は長くなるのでさておき中二病患者のみんなも益々、暗号大好き星人になるようなネット上に転がる暗号をいくつか紹介していきたいと思う。
 
 ## プルスウルトラソサイエティ
@@ -40,18 +33,18 @@ by 32Q
 <font size="1"><u>(注: 筆者から申告された引用元がファイルへの直リンクで、参照した記事が見つからなかったため別の記事に差し替えました。元の記事を見つけたらこっそりと教えて下さい。)</u</font>><br/>
 
 ↓上の写真から導かれる画像。ネズミであるところになにか意図を感じる。
-<img src=""><br/>
+<img src="https://9p2ela.bn.files.1drv.com/y4mUSFAPHBhr9Qra95ECIVxBsfBgjsNBD6VWooGRnx9rkw_npxqdJTBtIHgDroowTDvhu9wuNFCVHTTU9Ed1OjTnvmGeYcdK6Aj-fSelESaDOfLrP-vs1qKIBaIQS2MkrwaaboNy6ClnIwtpQcg3UJ83SmJzEplqH-Kb78qUzcPkdw9gD4qJ9Eq_ujmNesNo02zoKoiYKlt-zLGzJC0NeFvlQ?width=222&height=183&cropmode=none"><br/>
 (出典: [C0059995 鼠木彫根付 - 東京国立博物館 画像検索](https://webarchives.tnm.jp/imgsearch/show/C0059995))<br/>
 
 ## cicada3301
-<img src=""><br/>
+<img src="https://9p2fla.bn.files.1drv.com/y4mLaUOQJoKsrUl_RK0NO6X62zyma9ApoYzf0WDBmiG2G84XnJlUiJBTbQUxUlYxOFUest3VdVulyJsPVm_JNDfdEIyrsZTkXfqdH4Yr_Q__donPIrjyoQjU5deLsr29wz1xlDM-OZ00rAQdTXN4Ah9kKSUfWGXN9KaojJemEtoe01NB_hgQa1ZB34qo82x81Kpzyer8X_zRcp5YnkDe3scfw?width=256&height=128&cropmode=none"><br/>
 (出典: [Cicada 3301: I tried the hardest puzzle on the internet and failed spectacularly | Technology | The Guardian](https://www.theguardian.com/technology/2014/jan/10/cicada-3301-i-tried-the-hardest-puzzle-on-the-internet-and-failed-spectacularly))<br/>
 <font size="1"><u>(注: 筆者から申告された引用元が見つからなかったので以下略)</u></font>
 多分、今まで紹介してきたものの中で一番暗号らしい暗号ではないだろうか？ 知っている人も多いと思われる。事の発端は2012年1月、アメリカ版2ちゃんねるである「4chan」のある書き込みだ。<br/>
-<img src=""><br/>
+<img src="https://9o2mla.bn.files.1drv.com/y4msVkm1xcXfBtod21grOyHG9QIczoDAhMCqGwHaxaYOeFl0io1F0fAfgZiHaQfyNs5CbdrPkfdr2Bnvu96GdpKrv7A0thoyFgZ1vaaczvQIWyGOPFNEp5HuDyd8Lwrzk8-k0ss1bh3YDrs2sTzTeIVduy707o4uFgN5LSSQ4f4mpQjcZSrdORajVi3mlXiPnhDcOkS_V1Chlk-jTGUJ9F3JA?width=256&height=157&cropmode=none"><br/>
 (出典: [Cicada 3301 &#8211; ClevCode](http://www.clevcode.org/cicada-3301/))<br/>
 まとめると、ある画像に暗号が隠されていてそれが解ける頭のいい人たちを探しているということになる。下の画像がそれだ。セミだ。蝉である。蝉丸とは死んでも間違えないように。Cicada とは、蝉のことである。<br/>
-<img src=""> <img src=""><br/>
+<img src="https://9o2nla.bn.files.1drv.com/y4m9cM1d4Ks4MsBkt7_CJaCPa6eeUt75pUqQUcDldaHiK6En_zAvKXRDh8Xr1Oh4XbPoJE5u0KFtJFcaz7OImRl_hZ-Rv2Sh0lHNNx_OvUXot3SSAHALO7x0362GHnSWi_3QDflgiDH1HLHAkYA0zZKvzHO9moV8lOlAvf_eOcl_lg6_eNqVQSriYVRIXkX016e8IxZ-WWW-SHqeWvSC4N_gA?width=326&height=118&cropmode=none"> <img src="https://9o2ola.bn.files.1drv.com/y4mtiRwwmWueBqJHVN-INPaLdvoJrdr3sLXmm_BfEj91H5WbOFAaUEFpY54ulPXWOp4ukA033W8INfuF6WH2Jc8likXIVYo3WCdEddZGrbMQyka1JHAAMCjRfMyXotZQ6OoC855y8WmU7Xkk1ZQQ_U9erie-IcWyKrsDxgiCYnRp1fyTsDjIXUGO4nc0gc7Q0F45Wh5DBEkCVSfkkHpfjpCzQ?width=147&height=118&cropmode=none"><br/>
 (出典(左): [Cicada 3301: I tried the hardest puzzle on the internet and failed spectacularly | Technology | The Guardian](https://www.theguardian.com/technology/2014/jan/10/cicada-3301-i-tried-the-hardest-puzzle-on-the-internet-and-failed-spectacularly))<br/>
 (出典(右)[国文研の古典籍データで蝉丸の塗り絵を作りました - やわらか図書館学](http://yawatosho.hateblo.jp/entry/2016/11/14/220523))<br/>
 この書き込みを見つけ、暗号の解読に最初に着手したのがスウェーデン人のジョエル・エリクソン氏。彼はコンピューターアナリストであった。<br/>
@@ -59,7 +52,7 @@ by 32Q
 <q>TIBERIVS CLAVDIVS CAESAR says “lxxt>33m2mqkyv2gsq3q=w]O2ntk”</q>
 普段、情報の授業をまじめに受けているみんななら当然わかるだろうが、これはシーザー暗号である。<br>
 "ｌｘｘｔ"とかばりばり、"ｈｔｔｐ"ですよねー(笑)というかそもそもCEASARって書いてあるし。で、そのURLに行ってたどり着いたのがこの画像だ。<br/>
-<img src=""><br/>
+<img src="https://9o2ila.bn.files.1drv.com/y4mxvdaSzA5T_iCRHVJe2OgVBstU7wJOqqwmsH1pA7-Iga5fjSHvRiL2Qlh-SiXlFILXxoAjyhHax1whZOLONCKcRWjSQGtnyGN90RuoL3mRykNBixlXii84NQ9K4ck8_gTx4pJWt-CZeLg-_qq0Hi__e7wfvHywdaCDLlzb70Uwc4UIgpohzvUYTj8n8JiskGLF0zKMkl5n9cT4w-A0HKvqA?width=256&height=156&cropmode=none"><br/>
 (出典: [(Imgur)](http://i.imgur.com/m9sYK.jpg))<br/>
 <font size="1"><u>(注: 引用元は直リンクでしたが、例の暗号から得られるURLがそもそも直リンクなのでそのままにしました。)</u></font><br/>
 この英文を訳すと、「おっと、引っ掛かりましたね。貴方にこの暗号の解読は無理みたいだwwwww」諸説ありと言っている。<br/>なんと憎たらしいアヒルだろう。いや、アヒルに罪はないのか。なんて腸が煮えくり返っている私とは違い、エリクソン氏はスマートだった。いくつか別の方法をたどり歩いた後、原点回帰してこのアヒルの画像を解析してみることにしたのだ。<br/>
@@ -67,7 +60,7 @@ by 32Q
 すると、「Reddit」というニュースサイトの掲示板にたどり着いた。そこには暗号化された文章が掲載されており、調査の結果マヤ文明 の数字が使われていることが判明したのだ。そして、解読の結果たどりついたのが、「Agrippa」という詩であった。(ちなみに、有名な、アグリッパさんは二人いて、一人はローマの軍人、もう一人はドイツの魔術師だ。二人とも顎はそんなに立派じゃない。ここテストに、出るから覚えておこう。)その詩の中にもまた暗号が隠されていた。<br/>
 さらに、その時、Cicadaの暗号解読を行っていたのは、エリクソンさんひとりではなく、世界中に数千人規模の人が参加していたということを知り、その人々と協力することにしたエリクソンさん。その運命や如何に。<br/>
 と、まあ紆余曲折あり、「845145127.com」というウェブサイトにたどり着く。そこには、蝉の画像とカウントダウンされる時計があり、時計が0になったとき世界14か国の都市のGPS座標が送信された。世界中に散らばった暗号解読班は、その場所を捜索する。そして見つかったのが、これだ。<br/>
-<img src=""><br/>
+<img src="https://9o2jla.bn.files.1drv.com/y4mqIsSNAlRI4O4Ik_igA99eeg6wXIB4tbAVN7Eb1Bz6-yRUePX44aT4sR6rJyTI_z7YTU-nqMHf8nROvGZf4VPyQHElMOBavFuUy0y_MX2NhAe7b20DBl1Q7lsWUTOsSpS-x754LBGPLkIpBW4ADWRlEvr3koYbWN9R14ev0MrB3dmaD9q92YlkJnCfFL1j4sxwnh4ly11fqBMCJ6Um7wuDg?width=256&height=134&cropmode=none"><br/>
 (出典: [10 Bizarre Mysteries From Around The World - Listverse](https://listverse.com/2014/02/18/10-bizarre-mysteries-from-around-the-world/))<br/>
 蝉のマークとQRコードがかかれたポスターである。またこれから、いろいろあるのだが、最終的に<br/>
 <q>"You've shared too much to this point. We want the best, not the followers. Thus, the first few there will receive the prize. Good luck."</q><br/>
@@ -102,13 +95,13 @@ $$C\equiv p^e\pmod{2819}$$
 今までは、ガウスの合同 算術を使ってきたが、ここからはフェルマーさんの力も借りなければならない。具体的には彼の小定理を使う。<br/>
 <font color="gray">「私はこの命題の真に驚くべき証明をもっているが、余白が狭すぎるのでここに記すことはできない」嘘です。書けます。でも、もう私の気力が持たないので勘弁して。 後まで知りたい人は自力で頑張れ♡</font><br/>
 (注: <a href="#1">最後に適当に追記しました。</a>)
-<img src=""><br/>
+<img src="https://9o2kla.bn.files.1drv.com/y4mP9T-EVIoKFUY69AZ0rQEXmfltk8Ol5zFqeYARbPi4IAwm-CqLQFVMH4IXCOStLGFK0DuqRgMuF_-fcObhQmcv3-gbV7IlnBMKw1JfHDdimV37EsubN0VpIEjMZV7wLlxaNFh60sJgLtg9VtH3ppvLkWVu3K2UVZFu_6AB7QLj9F7Jp-kyxsh27JTwaRDgSWWhM4AAyp7RFrfAryfjadD3Q?width=316&height=426&cropmode=none"><br/>
 <q>こんにっちはーーーーーーーーー！ みんな大好きふぇるまーだよー。元気に数学ライフ送ってますかぁー♡今ならもれなく最終定理プレゼントしちゃうよー</q><br/>
 (出典: [Fermat Portraits](http://www-groups.dcs.st-and.ac.uk/~history/PictDisplay/Fermat.html))<br/>
 <font size="1">(注: 申告された引用元は以下略)<u></u></font><br/>
 
 ## おまけ \~Google\~
-<img src=""><br/>
+<img src="https://9o2lla.bn.files.1drv.com/y4mfiooASsUNRzMEkNaGc7ILNzIV2Aw_7ELrC1C6NtCuaRvjUIh6iZv2pNQ-mRRC0aVY7mre97Mv5Rsoy-2VkfFnkaeoZtVyn5wn1RiAPJ7vPa4CW5cGm1QXzJsgbdpZ3uX9dIGE9JMZsThaypqCGHT484je9FBbORhVdhdyUdYJgVxbgV3a4JOkb1OaB67rjAukdODuC2e94oPfNyu7blA5w?width=446&height=362&cropmode=none"><br/>
 (出典: [Googleの奇抜な求人広告 : 黒猫のウィズで勉強するブログ](http://blog.livedoor.jp/wiztrivia/archives/1510837.html))<br/>
 上の画像は、実際にシリコンバレーにある高速道路にしばらく掲示されていた看板の写真である。見たことがある人もいるかもしれない。なんとこれ、われらがグーグル先生の求人広告なのだ。暗号と呼べるかわからなかったのでおまけにした。<br/>
 和訳すると、「{eの値で最初に出てくる10桁の素数}.com」である。これには、プログラミング技術もいるためなかなか難易度が高い。また、eとはネイピア数であり数学的知識も必要とされる。しかも、これを解いてもまた次の問題が表示されるのだ。グーグルさんもなかなか粋なことをするものだ。<br/>

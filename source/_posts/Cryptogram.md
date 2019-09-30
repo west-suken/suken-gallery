@@ -30,23 +30,23 @@ by 32Q
 ↑映画のパンフレットの写真の一部で、この映画の一番話題となった暗号。私も途中までしかわかりませんでした。最後まで解けたら、謎の組織に協力の要請が来るらしい。ソースあり。4と5の間にかすかに点線が入っているところが味噌です。<br/>
 解こうと思ったそこのきみ。遅い。暗号解読者探しはもう締め切られました。私も久々に解こうとしたら途中のサイトまではいけましたが、そこから先のリンクが消されてました。がっかり。<br/>
 (出典: [Brad Bird&#039;s Tomorrowland Teaser Trailer](https://www.slashfilm.com/tomorrowland-teaser-trailer/))<br/>
-<font size="1"><u>(注: 筆者から申告された引用元がファイルへの直リンクで、参照した記事が見つからなかったため別の記事に差し替えました。元の記事を見つけたらこっそりと教えて下さい。)</u</font>><br/>
+<font size="1"><s>(注: 筆者から申告された引用元がファイルへの直リンクで、参照した記事が見つからなかったため別の記事に差し替えました。元の記事を見つけたらこっそりと教えて下さい。)</s></font><br/>
 
-↓上の写真から導かれる画像。ネズミであるところになにか意図を感じる。
+↓上の写真から導かれる画像。ネズミであるところになにか意図を感じる。<br/>
 <img src="https://9p2ela.bn.files.1drv.com/y4mUSFAPHBhr9Qra95ECIVxBsfBgjsNBD6VWooGRnx9rkw_npxqdJTBtIHgDroowTDvhu9wuNFCVHTTU9Ed1OjTnvmGeYcdK6Aj-fSelESaDOfLrP-vs1qKIBaIQS2MkrwaaboNy6ClnIwtpQcg3UJ83SmJzEplqH-Kb78qUzcPkdw9gD4qJ9Eq_ujmNesNo02zoKoiYKlt-zLGzJC0NeFvlQ?width=222&height=183&cropmode=none"><br/>
 (出典: [C0059995 鼠木彫根付 - 東京国立博物館 画像検索](https://webarchives.tnm.jp/imgsearch/show/C0059995))<br/>
 
 ## cicada3301
 <img src="https://9p2fla.bn.files.1drv.com/y4mLaUOQJoKsrUl_RK0NO6X62zyma9ApoYzf0WDBmiG2G84XnJlUiJBTbQUxUlYxOFUest3VdVulyJsPVm_JNDfdEIyrsZTkXfqdH4Yr_Q__donPIrjyoQjU5deLsr29wz1xlDM-OZ00rAQdTXN4Ah9kKSUfWGXN9KaojJemEtoe01NB_hgQa1ZB34qo82x81Kpzyer8X_zRcp5YnkDe3scfw?width=256&height=128&cropmode=none"><br/>
 (出典: [Cicada 3301: I tried the hardest puzzle on the internet and failed spectacularly | Technology | The Guardian](https://www.theguardian.com/technology/2014/jan/10/cicada-3301-i-tried-the-hardest-puzzle-on-the-internet-and-failed-spectacularly))<br/>
-<font size="1"><u>(注: 筆者から申告された引用元が見つからなかったので以下略)</u></font>
+<font size="1"><s>(注: 筆者から申告された引用元が見つからなかったので以下略)</s></font>
 多分、今まで紹介してきたものの中で一番暗号らしい暗号ではないだろうか？ 知っている人も多いと思われる。事の発端は2012年1月、アメリカ版2ちゃんねるである「4chan」のある書き込みだ。<br/>
 <img src="https://9o2mla.bn.files.1drv.com/y4msVkm1xcXfBtod21grOyHG9QIczoDAhMCqGwHaxaYOeFl0io1F0fAfgZiHaQfyNs5CbdrPkfdr2Bnvu96GdpKrv7A0thoyFgZ1vaaczvQIWyGOPFNEp5HuDyd8Lwrzk8-k0ss1bh3YDrs2sTzTeIVduy707o4uFgN5LSSQ4f4mpQjcZSrdORajVi3mlXiPnhDcOkS_V1Chlk-jTGUJ9F3JA?width=256&height=157&cropmode=none"><br/>
 (出典: [Cicada 3301 &#8211; ClevCode](http://www.clevcode.org/cicada-3301/))<br/>
 まとめると、ある画像に暗号が隠されていてそれが解ける頭のいい人たちを探しているということになる。下の画像がそれだ。セミだ。蝉である。蝉丸とは死んでも間違えないように。Cicada とは、蝉のことである。<br/>
 <img src="https://9o2nla.bn.files.1drv.com/y4m9cM1d4Ks4MsBkt7_CJaCPa6eeUt75pUqQUcDldaHiK6En_zAvKXRDh8Xr1Oh4XbPoJE5u0KFtJFcaz7OImRl_hZ-Rv2Sh0lHNNx_OvUXot3SSAHALO7x0362GHnSWi_3QDflgiDH1HLHAkYA0zZKvzHO9moV8lOlAvf_eOcl_lg6_eNqVQSriYVRIXkX016e8IxZ-WWW-SHqeWvSC4N_gA?width=326&height=118&cropmode=none"> <img src="https://9o2ola.bn.files.1drv.com/y4mtiRwwmWueBqJHVN-INPaLdvoJrdr3sLXmm_BfEj91H5WbOFAaUEFpY54ulPXWOp4ukA033W8INfuF6WH2Jc8likXIVYo3WCdEddZGrbMQyka1JHAAMCjRfMyXotZQ6OoC855y8WmU7Xkk1ZQQ_U9erie-IcWyKrsDxgiCYnRp1fyTsDjIXUGO4nc0gc7Q0F45Wh5DBEkCVSfkkHpfjpCzQ?width=147&height=118&cropmode=none"><br/>
 (出典(左): [Cicada 3301: I tried the hardest puzzle on the internet and failed spectacularly | Technology | The Guardian](https://www.theguardian.com/technology/2014/jan/10/cicada-3301-i-tried-the-hardest-puzzle-on-the-internet-and-failed-spectacularly))<br/>
-(出典(右)[国文研の古典籍データで蝉丸の塗り絵を作りました - やわらか図書館学](http://yawatosho.hateblo.jp/entry/2016/11/14/220523))<br/>
+(出典(右): [国文研の古典籍データで蝉丸の塗り絵を作りました - やわらか図書館学](http://yawatosho.hateblo.jp/entry/2016/11/14/220523))<br/>
 この書き込みを見つけ、暗号の解読に最初に着手したのがスウェーデン人のジョエル・エリクソン氏。彼はコンピューターアナリストであった。<br/>
 このせみmar…ではなく、蝉の画像には、デジタルステガノグラフティという画像の中にデータを織り込ませる技術が使われており、彼はそれをソフトを使って解読した。その文字列がこちら。<br/>
 <q>TIBERIVS CLAVDIVS CAESAR says “lxxt>33m2mqkyv2gsq3q=w]O2ntk”</q>
@@ -94,11 +94,11 @@ $$C\equiv p^e\pmod{2819}$$
 しかし割り算をするとなると、必ず整数が得られるとは限らないし、累乗根を取るのは笑えないレベルにひどい。例えば、ここで用いる最初の暗号ブロックは1592で、1692の769乗根は大体1.0096となり、目的に対しあまりに役に立たない。<br/>
 今までは、ガウスの合同 算術を使ってきたが、ここからはフェルマーさんの力も借りなければならない。具体的には彼の小定理を使う。<br/>
 <font color="gray">「私はこの命題の真に驚くべき証明をもっているが、余白が狭すぎるのでここに記すことはできない」嘘です。書けます。でも、もう私の気力が持たないので勘弁して。 後まで知りたい人は自力で頑張れ♡</font><br/>
-(注: <a href="#1">最後に適当に追記しました。</a>)
+(注: <a href="#1">最後に適当に追記しました。</a>)<br/>
 <img src="https://9o2kla.bn.files.1drv.com/y4mP9T-EVIoKFUY69AZ0rQEXmfltk8Ol5zFqeYARbPi4IAwm-CqLQFVMH4IXCOStLGFK0DuqRgMuF_-fcObhQmcv3-gbV7IlnBMKw1JfHDdimV37EsubN0VpIEjMZV7wLlxaNFh60sJgLtg9VtH3ppvLkWVu3K2UVZFu_6AB7QLj9F7Jp-kyxsh27JTwaRDgSWWhM4AAyp7RFrfAryfjadD3Q?width=316&height=426&cropmode=none"><br/>
 <q>こんにっちはーーーーーーーーー！ みんな大好きふぇるまーだよー。元気に数学ライフ送ってますかぁー♡今ならもれなく最終定理プレゼントしちゃうよー</q><br/>
 (出典: [Fermat Portraits](http://www-groups.dcs.st-and.ac.uk/~history/PictDisplay/Fermat.html))<br/>
-<font size="1">(注: 申告された引用元は以下略)<u></u></font><br/>
+<font size="1"><s>(注: 申告された引用元は以下略)</s></font><br/>
 
 ## おまけ \~Google\~
 <img src="https://9o2lla.bn.files.1drv.com/y4mfiooASsUNRzMEkNaGc7ILNzIV2Aw_7ELrC1C6NtCuaRvjUIh6iZv2pNQ-mRRC0aVY7mre97Mv5Rsoy-2VkfFnkaeoZtVyn5wn1RiAPJ7vPa4CW5cGm1QXzJsgbdpZ3uX9dIGE9JMZsThaypqCGHT484je9FBbORhVdhdyUdYJgVxbgV3a4JOkb1OaB67rjAukdODuC2e94oPfNyu7blA5w?width=446&height=362&cropmode=none"><br/>

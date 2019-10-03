@@ -83,7 +83,7 @@ $$
 零次元 | 点 | $ 1 $ | ![](https://po32qg.bn.files.1drv.com/y4mzzEgIU1W6Bp5ce_6spmsWs-ci1CH5xHFhu_2ni45wE_f-bGKBngCWGo-Hn-n9WvOp5sAu4c5qDVx5eZ_n2KPc0O7CfYOEoY0MSQr4w6yrBHhlCezkLfRmWINyNX-qYkd--5Mm0Kf-HHYAZaw7Hdzm_3BKMWJk1xto3cYseRDsbWv0fDjrzvnXDvrnzDXa7yThb0PdfqN5By37da7Us4YCQ?width=77&height=58&cropmode=none) |
 一次元 | 線分 | $ 2R $ | ![](https://po33qg.bn.files.1drv.com/y4mxR1Q_tAylo32GWsiiITCIXu2vy6Nw1QJhxz0fvR5v3yAtnIGDWaREu7ApM_RN8ZWNux-e3hQ_OCtU1hHqRIzjucVZfKWwb7t6CQZEnT4Z84jOg0rQ--48CGBSFocfT4SQfmR4pPzMxN5UipYBKyHS-OUSy7rO-CxBiq-NW4zZW09ZDHb7pmOl9PU0jR9y1TGQeENccWNYTmSOBoF86qg2A?width=177&height=56&cropmode=none) |
 二次元 | 円 | $ \pi R^2 $ | ![](https://po3wqg.bn.files.1drv.com/y4mgUptiTvhBe0U9aLpkD9jCVgYSqzA-fupqbrHvLukdMJeyxwVff0v0xxxZ7S5qhqlNrLIDY45025nIgLUwBSXCH9RMfbC4BKmvCJ-AOnfrieEnM5J9uJdQsv5F-d9vJp-D44pCku53NuyT327PODS6Z_RJ5-iEd36yIxH9XRaMYBRxn0xgG4pYxPSyJoTLtPVJZVXDDiTRFIrnWevccszfA?width=128&height=66&cropmode=none) |
-三次元 | 球 | $ \frac{4}{3}\pi R^2 $ | ![](https://po3xqg.bn.files.1drv.com/y4mQoTKqe0ed1SB1jpnCTiwB-11D_w-oxYmoe7dhoLexrIL2UNZAB87z908fn-vyP3PeIpz7V7voBCalnmNuoIkd9oFyqWe353msacPrNnq1hj8u6Ku0_3I_Rw8elnXfFjtvm6FmUSPoGG1B-emRhZONfpWAIjOTBkujDureOyLkAGY_RsUBQD0J9nRi5QdgqfHKW3FXrcEEzCkUgX_z-cGYQ?width=99&height=64&cropmode=none) |
+三次元 | 球 | $ \frac{4}{3}\pi R^3 $ | ![](https://po3xqg.bn.files.1drv.com/y4mQoTKqe0ed1SB1jpnCTiwB-11D_w-oxYmoe7dhoLexrIL2UNZAB87z908fn-vyP3PeIpz7V7voBCalnmNuoIkd9oFyqWe353msacPrNnq1hj8u6Ku0_3I_Rw8elnXfFjtvm6FmUSPoGG1B-emRhZONfpWAIjOTBkujDureOyLkAGY_RsUBQD0J9nRi5QdgqfHKW3FXrcEEzCkUgX_z-cGYQ?width=99&height=64&cropmode=none) |
 四次元 | 超球体 | ? | ? |
 
 やはり三次元より上の次元というものはイメージがつかみづらい。上の茶番を読んでいる途中に

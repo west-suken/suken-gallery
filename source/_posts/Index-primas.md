@@ -168,7 +168,7 @@ $O\left(\frac{N}{\log N}\right)$から$O\left(\frac{N}{(\log N)^2}\right)$
 これを使うことで、計算量を$O(\log\log N)$まで減らすことができます。  
 といっても、これがどの程度なのかわかりませんよね。  
 これ以上無いほど雑に説明します。
-$$\lim_{N\to\infty}\ \frac{\frac{N}{(\log N)^2}}{\log\log N}=\infty$$
+$$\lim_{N\to\infty}\ \frac{N\cdot(\log N)^{-2}}{\log\log N}=\infty$$
 この1行だけで敗北が確定する恐怖……  
 <s>古くからある問題に調子に乗って答えようとするとこういう目にあうんですね。気をつけましょう。</s>  
 

@@ -1,7 +1,7 @@
 ---
 title: 美しく自然なサイトを目指して
 date: 2019-09-19 09:54:59
-tags:
+tags: 2019年度
 ---
 
 https://kinensai.netlify.com

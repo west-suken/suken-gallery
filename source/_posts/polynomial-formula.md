@@ -1,7 +1,7 @@
 ---
 title: 整式の割り算について話し合ってみた
 date: 2019-09-08 13:40:51
-tags:
+tags: 2019年度
 cover_index: https://po0goq.bn.files.1drv.com/y4mQi47_3nlPFp4PTJqwX9TlAzo-Am2TSL46rQgrplsjSAtIgEXzxNI7QoS88W7VTR3m0oJLzgBS5Yfd2V2fg25ZAtq8bq3Zae-1nZELnF1z2wbF5yFcJPSbFZDDubdXX3tGpJgZePXu7zlQInDJ8El-N3BJNHwBWf-jX6oahw_BjUWujZ_NvJu9tUWqHaVLY8R-XzDRg2kYvQI2cvg9r0hDA?width=660&height=254&cropmode=none
 cover_detail: https://po0goq.bn.files.1drv.com/y4mQi47_3nlPFp4PTJqwX9TlAzo-Am2TSL46rQgrplsjSAtIgEXzxNI7QoS88W7VTR3m0oJLzgBS5Yfd2V2fg25ZAtq8bq3Zae-1nZELnF1z2wbF5yFcJPSbFZDDubdXX3tGpJgZePXu7zlQInDJ8El-N3BJNHwBWf-jX6oahw_BjUWujZ_NvJu9tUWqHaVLY8R-XzDRg2kYvQI2cvg9r0hDA?width=1300&height=500&cropmode=none
 ---

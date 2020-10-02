@@ -1,7 +1,7 @@
 ---
 title: AIギター
 date: 2019-09-11 22:40:28
-tags:
+tags: 2019年度
 cover_index: https://pe0moq.bn.files.1drv.com/y4mCFqzKXofwDyKqDPmwK2XKwBMAaNaWvk9mnxYARw2OwTwqw8K8v6TD-A8dVGSe0yTZ4f0VjUhuDARS9vMNuekQp2kM-JYlVHgSPQywBStUitf4FuuZc-8dAsOq-22mbk5119Hkq3swWYME1CnORod_3VyLh34ILA8QKY0adaOy1XgSbyT5_asafb_VLPt44IFH3kZlMMVnFf9Tl1PIeeNiw?width=256&height=98&cropmode=none
 cover_detail: https://pe0moq.bn.files.1drv.com/y4mCFqzKXofwDyKqDPmwK2XKwBMAaNaWvk9mnxYARw2OwTwqw8K8v6TD-A8dVGSe0yTZ4f0VjUhuDARS9vMNuekQp2kM-JYlVHgSPQywBStUitf4FuuZc-8dAsOq-22mbk5119Hkq3swWYME1CnORod_3VyLh34ILA8QKY0adaOy1XgSbyT5_asafb_VLPt44IFH3kZlMMVnFf9Tl1PIeeNiw?width=1300&height=500&cropmode=none
 ---

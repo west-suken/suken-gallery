@@ -1,7 +1,7 @@
 ---
 title: 予約をオンライン化して混雑度の把握や集客に対応
 date: 2019-09-15 22:35:24
-tags:
+tags: 2019年度
 ---
 
 Easy-To-Wait by shundroid, otray, shiro-alba

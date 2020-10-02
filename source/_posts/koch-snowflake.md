@@ -1,7 +1,7 @@
 ---
 title: コッホの雪片をn次元化してみたかった.
 date: 2019-08-28 17:37:54
-tags:
+tags: 2019年度
 cover_index: https://po0moq.bn.files.1drv.com/y4mStJhcWo8P7fK6WVNXmNuPDXHz4v23m-AqYbBh_EU6BkBSLRTQVQQejoUBnuyirtXA03KeKXPRNcgpWo0_bH1yw6LAKRrUhY4UmZuUKConHdkZnB364MdnxUTllYibnIXIUn2zT-NW1izTyEFDjPnJb2CplwM41Fo7eRDQ82CdTHoWBdXZ-21qm5O90a9g9vWcddrltMnqwuhHu6TdCeYSg?width=660&height=254&cropmode=none
 cover_detail: https://po0moq.bn.files.1drv.com/y4mStJhcWo8P7fK6WVNXmNuPDXHz4v23m-AqYbBh_EU6BkBSLRTQVQQejoUBnuyirtXA03KeKXPRNcgpWo0_bH1yw6LAKRrUhY4UmZuUKConHdkZnB364MdnxUTllYibnIXIUn2zT-NW1izTyEFDjPnJb2CplwM41Fo7eRDQ82CdTHoWBdXZ-21qm5O90a9g9vWcddrltMnqwuhHu6TdCeYSg?width=1300&height=500&cropmode=none
 ---

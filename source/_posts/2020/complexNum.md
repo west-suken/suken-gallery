@@ -16,18 +16,18 @@ tags: 2020年度
 > $$
 > \left\\{
 > \begin{array}{l}
-> \alpha = p {\rm Log} |z| − q \arg z \newline
-> \beta = q {\rm Log}|z| + p \arg z \\
+> \alpha = p \log |z| − q \arg z \newline
+> \beta = q \log |z| + p \arg z \\
 > \end{array}
 > \right.
 > $$
-> として、
+> としたとき、
 > $$
-> z^{p+qi} = e^α (\cosβ + i \sinβ)
+> z^{p+qi} = e^\alpha (\cos\beta + i \sin\beta )
 > $$
-> が成り立つ。ここで、 ${\rm Log}(x)$は実数xの自然対数を、 $\arg(z)$は複素数zの偏角（多価関数）をそれぞれ表す。
+> が成り立つ。ここで、$\log (x)$は実数$x$の自然対数を、$\arg(z)$は複素数$z$の偏角（多価関数）をそれぞれ表す。
 
-（https://fermiumbay13.hatenablog.com/entry/2017/12/03/021235　参照）
+（[参照](https://fermiumbay13.hatenablog.com/entry/2017/12/03/021235)）
 
 ### 用語説明
 
@@ -39,7 +39,7 @@ tags: 2020年度
 
  $\varphi$が偏角で、$r$が絶対値
 
-- 多価関数…多くの答えが出てくる関数（この場合、２πの整数倍を足したものも答え）
+- 多価関数…多くの答えが出てくる関数（この場合、２\pi の整数倍を足したものも答え）
 
 ## 導入
 
@@ -47,26 +47,26 @@ tags: 2020年度
 
 $z^{p+qi} = e^{(p+qi) \log z}$ が成り立つ。
 
-ここで、$\log z = \log(|z|e^{i arg z})$　←｛$e^{πi}=cosθ+i sinθ$（オイラーの公式）より$\arg z$が$θ$に相当、$|z|$は$z$の絶対値で、$z$の大きさになっている｝
+ここで、$\log z = \log(|z|e^{i \arg z})$　←｛$e^{\pi i}=\cosθ+i \sinθ$（オイラーの公式）より$\arg z$が$θ$に相当、$|z|$は$z$の絶対値で、$z$の大きさになっている｝
 
 $=(i \arg z )\log(|z|e)$　（対数の公式より）
 
-$={\rm Log}|z| + i \arg z$
+$=\log |z| + i \arg z$
 
 より
 
-$e^{(p+qi) \log z} = e^{(p+qi) ({\rm Log}|z| + i \arg z)} = e^{(p{\rm Log}|z|-q \arg z)+(q{\rm Log}|z|+p \arg z)i}$
+$e^{(p+qi) \log z} = e^{(p+qi) (\log |z| + i \arg z)} = e^{(p\log |z|-q \arg z)+(q\log |z|+p \arg z)i}$
 $$
 \left\\{
 \begin{array}{l}
-α= p{\rm Log}|z|-q \arg z \newline
-β= q{\rm Log}|z|+p \arg z
+\alpha = p\log |z|-q \arg z \newline
+\beta = q\log |z|+p \arg z
 \end{array}
 \right.
 $$
-と置くと$e^{α＋βi}$と表せるので
+と置くと$e^{\alpha ＋\beta i}$と表せるので
 
-$e^{α＋βi}=e^αe^{βi}=e^α(\cosβ + i \sin β)$　←オイラーの公式
+$e^{\alpha ＋\beta i}=e^\alpha e^{\beta i}=e^\alpha (\cos\beta + i \sin \beta )$　←オイラーの公式
 
 となる。
 
@@ -83,26 +83,26 @@ $(1+2i)^{3+4i}$は？
 $$
 \left\\{
 \begin{array}{l}
-α=3{\rm Log}|1+2i| - 4 \arg (1+2i) \newline
-β=4{\rm Log}|1+2i|+3 \arg(1+2i)
+\alpha =3\log |1+2i| - 4 \arg (1+2i) \newline
+\beta =4\log |1+2i|+3 \arg(1+2i)
 \end{array}
 \right. \\
 $$
 $$
-{\rm Log}|1+2i|={\rm Log}√5 \\
-\arg(1+2i)=\tan^{-1} \frac{2}{1}+2nπ \\
+\log |1+2i|=\log \sqrt5 \\
+\arg(1+2i)=\tan^{-1} \frac{2}{1}+2n\pi \\
 $$
 $$
 \left\\{
 \begin{array}{l}
-α=\frac{3}{2}{\rm Log}5－4 \tan^{－1} \frac{2}{1}+8nπ \newline
-β=2 {\rm Log}5+3 \tan^{-1} \frac{2}{1}+6nπ
+\alpha =\frac{3}{2}\log 5－4 \tan^{－1} \frac{2}{1}+8n\pi \newline
+\beta =2 \log 5+3 \tan^{-1} \frac{2}{1}+6n\pi 
 \end{array}
 \right. \\
 $$
 より
 $$
-(1+2i)^{3+4i}=e^{\frac{3}{2}{\rm Log}5－4 \tan^{-1}2+6nπ}\{cos(2 {\rm Log}5+3 \tan^{-1}2)+i\sin(2{\rm Log}5+3\tan^{-1}2)\}
+(1+2i)^{3+4i}=e^{\frac{3}{2}\log 5－4 \tan^{-1}2+6n\pi }\{\cos(2 \log 5+3 \tan^{-1}2)+i\sin(2\log 5+3\tan^{-1}2)\}
 $$
 となりました。（計算ミスっている可能性あり）
 

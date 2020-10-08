@@ -1,7 +1,7 @@
 ---
 title: 数学の用語を使って告白っぽいことをしてみる。
 date: 2019-08-28 17:31:44
-tags:
+tags: 2019年度
 cover_index: https://pe0loq.bn.files.1drv.com/y4m0yI6UtWU66yXlyggU6Fn2lUeiXWcthaHWrg6nTQOeL5sMbSECjPlTOq6_9HQs5y1sRCn8OQ1zUyk_m5PrTiIIjTiHhH5zJw6lzau0g_C8OnHKpkp-B3q2KixWTzK0K9dWdqqOYljdG9S7Ti1yf7ynVoScrOkVVMcI5ilIb11LS2qnalQ3l-hSOIaf3BdE126wGHpJDSE1PJW8IMhic254g?width=660&height=254&cropmode=none
 cover_detail: https://pe0loq.bn.files.1drv.com/y4m0yI6UtWU66yXlyggU6Fn2lUeiXWcthaHWrg6nTQOeL5sMbSECjPlTOq6_9HQs5y1sRCn8OQ1zUyk_m5PrTiIIjTiHhH5zJw6lzau0g_C8OnHKpkp-B3q2KixWTzK0K9dWdqqOYljdG9S7Ti1yf7ynVoScrOkVVMcI5ilIb11LS2qnalQ3l-hSOIaf3BdE126wGHpJDSE1PJW8IMhic254g?width=1300&height=500&cropmode=none
 ---

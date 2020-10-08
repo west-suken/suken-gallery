@@ -34,6 +34,42 @@ $$
 
 そして完成したプログラムが以下の通りです。
 
+<form>
+    <label for="textForm">確率: </label>
+    <input type="number" id="textForm"> 
+
+    <button id="button">計算</button> 
+</form>
+
+<label for="resultForm">計算結果: </label>
+<input type="text" id="resultForm">
+
+<label for="resultForm2">回数: </label>
+<input type="text" id="resultForm2">
+
+<script>
+    var button = document.getElementById("button");
+    button.addEventListener("click", function(e){
+        e.preventDefault();
+
+        let count = 0;
+
+        let textForm = document.getElementById("textForm").value;
+
+        let form = 100 - parseFloat(textForm, 10);
+        form = form / 100;
+        let hit = form;
+        while (hit > 0.5 ){
+            hit = hit * form;
+            count++; 
+        }
+        let resultForm = document.getElementById("resultForm");
+        resultForm.value = ( 1 - hit ) * 100;
+        let resultForm2 = document.getElementById("resultForm2");
+        resultForm2.value = count;
+    });
+</script>
+
 ```javascript
 <!DOCTYPE html>
 <html lang="ja">
@@ -81,8 +117,6 @@ $$
 </script>
 </html>
 ```
-
- 
 
 説明すると、上半分は、排出率を入力する場所と、結果を表示する場所を作っていて、
 下半分は入力した排出率を取り出して、計算させています。

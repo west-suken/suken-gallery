@@ -6,8 +6,6 @@ tags: 2020年度
 
 <div style="text-align: right">74期 チョコミント</div>
 
-[TOC]
-
 ## はじめに
 
 　**関数を使って文字を書きたい！**
@@ -34,10 +32,10 @@ $$
 
 　場合分けしてみるとこんな感じです。
 
-1. $x+y\ge 0$  かつ $x-y\ge 0$ すなわち $y\ge -x$ かつ $y\le x$ のとき直線$x=k$
-2. $x+y< 0$  かつ $x-y\ge 0$ すなわち $y< -x$ かつ $y\le x$ のとき直線$y=-k$
-3. $x+y\ge 0$  かつ $x-y< 0$ すなわち $y\ge -x$ かつ $y> x$ のとき直線$y=k$
-4. $x+y< 0$  かつ $x-y< 0$ すなわち $y\ge -x$ かつ $y\le x$ のとき直線$x=-k$
+1. $x+y\ge 0$ かつ $x-y\ge 0$ すなわち $y\ge -x$ かつ $y\le x$ のとき直線$x=k$
+2. $x+y< 0$ かつ $x-y\ge 0$ すなわち $y< -x$ かつ $y\le x$ のとき直線$y=-k$
+3. $x+y\ge 0$ かつ $x-y< 0$ すなわち $y\ge -x$ かつ $y> x$ のとき直線$y=k$
+4. $x+y< 0$ かつ $x-y< 0$ すなわち $y\ge -x$ かつ $y\le x$ のとき直線$x=-k$
 
 　確かに一辺$k$の正方形になる。
 
@@ -74,29 +72,29 @@ $$
 - **min$(a,b)$は$a$と$b$のうち小さい方を表す。**例えば、
 
 $$
-\rm min (\it a, b \rm ) = 0
+\min(a,b) = 0
 \iff
-\begin{eqnarray}
-  \begin{cases}
-    a = 0 \, (b \ge 0) \newline
-    b = 0 \, (a \ge 0)
-  \end{cases}
-\end{eqnarray}
+\begin{align}
+ \begin{cases}
+ a = 0 \ (b \ge 0) \newline
+ b = 0 \ (a \ge 0)
+ \end{cases}
+\end{align}
 $$
-  
+ 
 - **max$(a,b)$は$a$と$b$のうち大きい方を表す。**例えば、
 
 $$
-\rm min (\it a, b \rm ) = 0
+\max (a,b) = 0
 \iff
-\begin{eqnarray}
-  \begin{cases}
-    a = 0 \, (b \le 0) \newline
-    b = 0 \, (a \le 0)
-  \end{cases}
-\end{eqnarray}
+\begin{align}
+ \begin{cases}
+ a = 0 \ (b \le 0) \newline
+ b = 0 \ (a \le 0)
+ \end{cases}
+\end{align}
 $$
-  
+ 
 
 　この関数の仕組みをもっと詳しく知りたい人は、この方がすごく分かりやすくまとめられているので、こちらをご覧ください。
 
@@ -104,7 +102,7 @@ $$
 >
 > https://corollary2525.hatenablog.com/entry/2019/12/11/224546
 
-　見かけ上、min$(a,b)$は$a$と$b$の**和集合**、max$(a,b)$は$a$と$b$の**共通部分**みたいな感じです。
+　見かけ上、$\min(a,b)$は$a$と$b$の**和集合**、$\max(a,b)$は$a$と$b$の**共通部分**みたいな感じです。
 
 　ちなみに、今回は関数 **min** $(\)$ のみを使います。
 
@@ -112,21 +110,21 @@ $$
 
 　どうやって、**「西」**の形にしようかいろいろ試行錯誤したところ、この長方形たちを使うことになりました。**「西」**という漢字は左右対称、つまり、 $y$軸に関して対称に書けるので$x$を$|x|$にすることで必要な式を少し減らすことが出来ます。$y$についても同様です。
 $$
-\begin{eqnarray}
-  \begin{cases}
-    \left|\cfrac{x}{7} + y \right| + \left|\cfrac{x}{7} - y \right| = 2 & \\
-    \left|\cfrac{x}{7} + (|y + 8| - 4) \right| + \left|\cfrac{x}{7} - (|y + 8| - 4) \right| = 2 & \\
-    \left|(|x| - 6) + \cfrac{y + 8}{5} \right| + \left|(|x| - 6) - \cfrac{y + 8}{5} \right| = 2 & \\
-    \left|(|x| - 2) + \cfrac{y + 4}{5} \right| + \left|(|x| - 2) - \cfrac{y + 4}{5} \right| = 2 & \\
-    \left|\cfrac{|x| - 4}{3} + ( y + 8 ) \right| + \left|\cfrac{|x| - 4}{3} - ( y + 8 ) \right| = 2 & \\
-  \end{cases}
-\end{eqnarray}
+\begin{align}
+ \begin{cases}
+ \left|\cfrac{x}{7} + y \right| + \left|\cfrac{x}{7} - y \right| = 2 \newline
+ \left|\cfrac{x}{7} + (|y + 8| - 4) \right| + \left|\cfrac{x}{7} - (|y + 8| - 4) \right| = 2 \newline
+ \left|(|x| - 6) + \cfrac{y + 8}{5} \right| + \left|(|x| - 6) - \cfrac{y + 8}{5} \right| = 2 \newline
+ \left|(|x| - 2) + \cfrac{y + 4}{5} \right| + \left|(|x| - 2) - \cfrac{y + 4}{5} \right| = 2 \newline
+ \left|\cfrac{|x| - 4}{3} + ( y + 8 ) \right| + \left|\cfrac{|x| - 4}{3} - ( y + 8 ) \right| = 2 \newline
+ \end{cases}
+\end{align}
 $$
 （ちなみに上の式から、一画目、三画目の水平部分と六画目、二画目と三画目の垂直部分、四画目の垂直部分と五画目の垂直部分、四画目の水平部分と五画目の水平部分です。）
 
 この長方形たちをminを使って合体させると...
 $$
-min\left( \left|\cfrac{x}{7} + y \right| + \left|\cfrac{x}{7} - y \right|,
+\min\left( \left|\cfrac{x}{7} + y \right| + \left|\cfrac{x}{7} - y \right|,
 \left|\cfrac{x}{7} + ( |y + 8| - 4 ) \right| + \left|\cfrac{x}{7} - ( |y + 8| - 4 ) \right|,
 \left|(|x| - 6) + \cfrac{y + 8}{5} \right| + \left|(|x| - 6) - \cfrac{y + 8}{5} \right|,
 \left|(|x| - 2) + \cfrac{y + 4}{5} \right| + \left|(|x| - 2) - \cfrac{y + 4}{5} \right|,

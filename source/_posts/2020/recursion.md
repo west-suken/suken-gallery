@@ -8,10 +8,10 @@ tags: 2020年度
 
 ## はじめに
 
-　関数を再帰的に定義することは，非常に重要な意味を持つ．例えば最小の自然数かつ加法単位元かつ零元となる数$0$，$0$より大きい最小の自然数かつ乗法単位元となる数$1$と，自然数$a$に対してその次の自然数を表す後者関数$\succ(a)$が与えられたとき，
+　関数を再帰的に定義することは，非常に重要な意味を持つ．例えば最小の自然数かつ加法単位元かつ零元となる数$0$，$0$より大きい最小の自然数かつ乗法単位元となる数$1$と，自然数$a$に対してその次の自然数を表す後者関数$\operatorname(a)$が与えられたとき，
 $$
 \begin{align}
-	\succ(a)=&a+1 \newline
+	\operatorname(a)=&a+1 \newline
 	a+(-a)=&0 \newline
 	-(-a)=&0 \newline
 	a+b=&(a+1)+(b-1) \newline
@@ -129,7 +129,7 @@ $$\begin{align}
 	f_n'(x)=&A_nA_{n-1}A_{n-2}\cdots A_4A_3A_2B_1+\newline
 			&A_nA_{n-1}A_{n-3}\cdots A_4A_3B_2+\newline
 			&A_nA_{n-1}A_{n-4}\cdots A_4B_3+\newline
-			&\text{\ \ \ \ \ \ }\cdots\text{\ \ \ \ \ \ }+\newline
+			&{\ \ \ \ \ \ }\cdots{\ \ \ \ \ \ }+\newline
 			&A_nA_{n-1}B_{n-2}+\newline
 			&A_nB_{n-1}+\newline
 			&B_n\newline
@@ -248,7 +248,7 @@ $$\begin{align}
 
 #### n≥2のとき
 
-　ここから，議論の簡略化のために$f_n(x)=\sin(g_n(x))$を満たす$g_n(x)$を導入する．このとき，$g_n(x)=x+f_{n-1}(x)$である．ただし，$g_1(x)=x$とする．\footnote{$f_1(x)=\sin x=\sin g_1(x)$から$g_1(x)=x+k\pi$（$k$は整数）が導かれるが，後述する$g_n(0)=g_n(\pi)=\pi$を成立させるために$k=0$とする．}  
+　ここから，議論の簡略化のために$f_n(x)=\sin(g_n(x))$を満たす$g_n(x)$を導入する．このとき，$g_n(x)=x+f_{n-1}(x)$である．ただし，$g_1(x)=x$とする．（このとき，$f_1(x)=\sin x=\sin g_1(x)$から$g_1(x)=x+k\pi$（$k$は整数）が導かれるが，後述する$g_n(0)=g_n(\pi)=\pi$を成立させるために$k=0$とする．）  
 　ところで，$f_n(x)$のグラフを実際にコンピューターに描画させてみると，$\max f_n(x)=1$であり，さらに$\min f_n'(x)=-1$であるように思われるが，
 $$\begin{align}
 	f_n'(x)\geq-1\Leftrightarrow&1+f_n'(x)=g_{n+1}'(x)\geq0

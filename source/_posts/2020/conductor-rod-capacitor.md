@@ -201,7 +201,12 @@ $$ V_\infty=\frac{Q}{C}=\frac{\frac{BlCm}{m+CB^2 l^2}v_1}{C}=\frac{Blm}{m+CB^2 l
 たしかに電圧が等しくなる。
 熱として損失されたエネルギー$W_\infty$は、系のエネルギー変化をとればよく、
 
-$$ W_\infty=-\Delta K=-\left\\{\left(\frac{1}{2} mv_2^2+\frac{1}{2} CV_\infty^2 \right)-\left(\frac{1}{2}mv_1^2+0\right)\right\\}=\frac{1}{2}mv_1^2-\frac{1}{2}\cdot\frac{m^2}{m+CB^2 l^2}v_1^2=\frac{1}{2}\cdot\frac{mCB^2 l^2}{m+CB^2 l^2} v_1^2 $$
+$$
+\begin{align}
+W_\infty=-\Delta K=&-\left\\{\left(\frac{1}{2} mv_2^2+\frac{1}{2} CV_\infty^2 \right)-\left(\frac{1}{2}mv_1^2+0\right)\right\\}\newline
+=&\frac{1}{2}mv_1^2-\frac{1}{2}\cdot\frac{m^2}{m+CB^2 l^2}v_1^2=\frac{1}{2}\cdot\frac{mCB^2 l^2}{m+CB^2 l^2} v_1^2
+\end{align}
+$$
 
 これで、$v_2,V_\infty,W_\infty$を、確かに$v_1$を用いて表すことができた。
 また、これら$v_2,V_\infty,W_\infty$をよく見ると、回路の抵抗に依存していないことがわかる。この結果はなかなか興味深いだろう。力学的エネルギーの保存で、途中の道の形状が不問だったように、電気の世界では途中の「抵抗」という道が不問となっている。
@@ -235,7 +240,12 @@ $$ Q_2=C_1 V_\infty=\frac{C_1}{C_1+C} Q_1 $$
 
 $W_\infty$は系のエネルギー変化を取ればよく、
 
-$$ W_\infty=-\Delta K=-\left\\{\left(\frac{1}{2} C_1 V_\infty^2+\frac{1}{2} CV_\infty^2 \right)-\left(\frac{1}{2}\cdot\frac{Q_1^2}{C_1}+0\right)\right\\}=\frac{1}{2}\cdot\frac{C}{C_1\left(C+C_1 \right)} Q_1^2 $$
+$$ 
+\begin{align}
+W_\infty=-\Delta K=&-\left\\{\left(\frac{1}{2} C_1 V_\infty^2+\frac{1}{2} CV_\infty^2 \right)-\left(\frac{1}{2}\cdot\frac{Q_1^2}{C_1}+0\right)\right\\}\newline
+=&\frac{1}{2}\cdot\frac{C}{C_1\left(C+C_1 \right)} Q_1^2 
+\end{align}
+$$
 
 導体棒と比べてこんなに簡単に答えが出せるのは、コンデンサーに、電気量という、回路の中で親和性が高い状態量が存在しているからである。導体棒にもこのような状態量を定義したい、というのが目標であった。
 そのために、コンデンサーでも微分方程式により求める方法を試して、両者を比較してみよう。

@@ -7,7 +7,7 @@ title: Nishi Mathematics Club Gallery (Unofficial)
 subtitle:
 description:
 keywords:
-author: John Doe
+author:
 language: en
 timezone:
 
@@ -48,10 +48,27 @@ highlight:
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
-index_generator:
-  path: ''
-  per_page: 0
-  order_by: -date
+#index_generator:
+#  path: ''
+#  per_page: 14
+#  order_by: -date
+
+index2_include_index: true
+index2_generator:
+  - layout: 'index'
+    path: ''
+    index: true
+    per_page: 0
+    order_by: -date
+    exclude:
+      - tag 2019年度
+  - layout: 'index'
+    path: '/backnumber/'
+    index: true
+    per_page: 0
+    order_by: -date
+    exclude:
+      - tag 2020年度
   
 # Category & Tag
 default_category: uncategorized
@@ -79,3 +96,10 @@ theme: magnetic
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+    # mermaid chart
+mermaid: ## mermaid url https://github.com/knsv/mermaid
+  enable: true  # default true
+  version: "7.1.2" # default v7.1.2
+  options:  # find more api options from https://github.com/knsv/mermaid/blob/master/src/mermaidAPI.js
+    #startOnload: true  // default true

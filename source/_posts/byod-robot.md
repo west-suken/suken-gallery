@@ -1,7 +1,7 @@
 ---
 title: BYODネットワークを活用したロボット遠隔操作
 date: 2019-09-19 10:12:15
-tags:
+tags: 2019年度
 ---
 
 by shiro-alba, shundroid

@@ -102,7 +102,7 @@ $$
 \begin{align}
 &\int_{0}^\sqrt{-\frac{49}{100}x^2+\frac{49}{10}}\sqrt{-\frac{4}{25}x^2-\frac{16}{49}y^2+1} dy \newline
 =&\dfrac{\left(28\mathrm{i}x^2-175\mathrm{i}\right)\operatorname{arsinh}\left(\frac{2\sqrt{490-49x^2}\sqrt{4x^2-25}}{28x^2-175}\right)+2\sqrt{15}\mathrm{i}\sqrt{490-49x^2}}{200}
-\begin{align}
+\end{align}
 $$
 
 ？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？(精神崩壊)

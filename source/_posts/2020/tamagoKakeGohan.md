@@ -22,13 +22,13 @@ tags: 2020年度
 
 やっていきます。
 
-**①-1-1 卵の関数を作る**
+####①-1-1 卵の関数を作る
 
 ネット漁ってたら出ました(怠惰)
 
 ![](https://jormta.sn.files.1drv.com/y4mCBZ6_N5RDOfOav4iMDyIapYBnxXfH0gOGs5wJVt2RvOnzf6z0jTmbHZSERtEzXiPzQIJU5PSpXISxymgDj9GCF9t88v6VxdZB13mWUT23czDuoHO8jMyCXczS7Vgc15j6wKY7Kwxm7_DddFcQgPvp-n6HYetWQrqzEARMHg9ff40N_jlNzdssoZlLaQJF5rFZ2_38Z_97UUftXLbEiycgA?width=1695&height=860&cropmode=none)
 
-**①-1-2 卵の体積を求める**
+####①-1-2 卵の体積を求める
 
 上の関数を y = f(x) の形にゴリ押すと
 $$
@@ -61,13 +61,13 @@ $$
 $$
 
 
-**①-2-1 米の関数を作る**
+####①-2-1 米の関数を作る
 
 球の方程式を良い感じに変形して作りました。（原理はよくわかって）ないです。
 
 ![](https://loox2a.sn.files.1drv.com/y4mS7QcHFDkzWavMANKPu6_PvM1Cglyf3XTQ0EUVZrK9Bgx6eBq8CWgrSpL1c22Tkqu2y3buy28FEu3CjfTAjDOFfInFztscfiJ1N9_bxne1CDWDdY30YzhOkRQlpBLE_TmWsFY9OAmVpi97fQJ9LhHK1NfFgBR6U-aEZkh_yWU-PVu8PAFiHY5r-on4Bd03uX2yL3aps5YJq4tGONzdMR9-Q?width=2316&height=1386&cropmode=none)
 
-**①-2-2 米の体積を求める**
+####①-2-2 米の体積を求める
 
 先ほどと同様に上の関数を z = f(x,y) の形にゴリ押すと
 $$
@@ -128,14 +128,14 @@ $$
 $$
 (米０.５合の体積)=59475\mathrm{mm}^3\fallingdotseq 59.5\mathrm{cm}^3
 $$
-**①-3 醤油の体積を求める**
+###①-3 醤油の体積を求める
 $$
 5\mathrm{mL}=5\mathrm{cm}^3
 $$
 草
 
 
-**②①で求めた体積を全て足す**
+##②①で求めた体積を全て足す
 $$
 14.6+59.5+5=79.1(\mathrm{cm}^3)
 $$

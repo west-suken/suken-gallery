@@ -37,7 +37,6 @@ $$
 <form>
     <label for="textForm">確率: </label>
     <input type="number" id="textForm"/> 
-
     <button id="button">計算</button> 
 </form>
 

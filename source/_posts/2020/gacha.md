@@ -36,16 +36,16 @@ $$
 
 <form>
     <label for="textForm">確率: </label>
-    <input type="number" id="textForm"> 
+    <input type="number" id="textForm"/> 
 
     <button id="button">計算</button> 
 </form>
 
 <label for="resultForm">計算結果: </label>
-<input type="text" id="resultForm">
+<input type="text" id="resultForm"/>
 
 <label for="resultForm2">回数: </label>
-<input type="text" id="resultForm2">
+<input type="text" id="resultForm2"/>
 
 <script>
     var button = document.getElementById("button");

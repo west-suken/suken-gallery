@@ -22,6 +22,8 @@ tags: 2020年度
 
 ## 完成品の紹介
 
+完成品はこちら→[https://lets-percuss.netlify.app/](https://lets-percuss.netlify.app/)
+
 <img src="https://kqdvka.dm.files.1drv.com/y4m2e3ffBOHQGmJr6j6SGTwQ0GrzDB6jAodV2SsUeD5zvaqVykeIsj7Y3of15YTs7mGqbFltSRa1tffXzkqM9kj8U-un3j66Z0vhDmjWy3w7hrTJUS-7M0KOIH4TVpp7i_zElhvF53vGq-sogRvLxH_rlG9N7SChqo36xkoWT4_n63rFqi_CHr1rff6rdQ8yKquajeoDXWJ0VwsWvdKyfDzvA?width=756&height=1650&cropmode=none" style="zoom: 25%;" /><img src="https://iacknq.dm.files.1drv.com/y4ma8edAp6TSfYjDuPJ_WAy-mXp9dj6Jx9xUZNGmldFn6y3YrOUHomg0owM0OjG27rg8dlgi1DDTJ7ovcUxMwtcUk0etmJp74Dn8lCFj81N_C5rS8JjPYY4F-1Yyi8XCea6tmloKmb7L5iJHQu8AWGY3IQoK5IkECQaHO0ssVALHaQ7fZAXqhNaZ5gTbwzH6ZorAyLmU5kvSD08DC89JnZ3mw?width=756&height=1650&cropmode=none" style="zoom:25%;" /><img src="https://kadvka.dm.files.1drv.com/y4mJriYltwEsxEJs1gfM2WEt584Rj5ogCZRZEC_S9K7IVht_zWe5ovmRiUZzLoiSGc-0uZqA4pBIel-ij4ateANqvNQNIDPxEO-ydgGQvuIS8YsZukXRh4drG-F9xxujiUP4grsKhK-QExQFVhnWHOyVqSyvszDv3CRJJn5efE-zdrY77GVohVx8p-OEj3eP8OtVfYIBN5rruEjzUoSBj-hJQ?width=756&height=1650&cropmode=none" style="zoom:25%;" /><img src="https://k6dvka.dm.files.1drv.com/y4mnHbTJiJeHsqfi7kvNAdaxLDGgOYxdlLQPAfL46b3Oa1bdfl6RgLB9EstllzeLPwbEYc2RAoa0ZoBkqh0QOIj2Hwb2g96enR2PwNpm3eHbZsj3QCP0aAkaafwFuybjtD_9JqofAkuIGSrIqoaHJACPbitPChosUHm4xtwp42HWe-ZCFIyxlMnxeVuB58-nGQEjVU5tUqOxelzgSu12ND8og?width=756&height=1650&cropmode=none" style="zoom:25%;" /><img src="https://lqdvka.dm.files.1drv.com/y4msdQ7vBfpmThS-x_u31zI3AeXde-9zrEmz_vDdtb7FW_r4iJXqYRMl3nhXGp0Chccqc90uANixG7G4NVLD7zaZAV9gkAq4k4R5PjCPFbMcwwbJsn0R8QxlQ--UMMMT5H4Tu9RM-tQT4AYOtYPBYYshmYti2Ep4nTbErIpkwwQebzQeUG9OpRJL3NK0T9-12LbQIhJG1VyXXZRnaP7Hdi8Fw?width=756&height=1650&cropmode=none" style="zoom:25%;" /><img src="https://lkdvka.dm.files.1drv.com/y4mTmvuK1SIGECblqe2VGq0dTvMGXPJwEEYY0SLl8vse7B2MzGl4qhfruiPYUFlCj63KkqXxrcK3HV-4eHJw7R-T3XCsOENQNdXCjaXZa7n4JWYg6LXtwYli8RBAxBmJ0FMho9RDIWWl7wPK7b_ysTZMHE1-jVxyBYl_Jk10CR3J9VOoXvF_zQ7sTlr0SW1q1GSwK7lNprvKz-Pt0lXJTNObQ?width=756&height=1650&cropmode=none" style="zoom:25%;" />
 
 　左の画像から1〜6とします。
@@ -56,6 +58,6 @@ https://github.com/OTRAY271/lets-percuss
 
 　時間を$t$(秒)、テンポを$a$(拍/分)とすると、針を動径として鉛直上向きに始線をとったときの一般角$\theta$は定数$k$を使って
 $$
-\theta = ksin(\frac{a}{60}\pi t)\ \ \ \ \ \ (-k \leqq \theta \leqq k) \
+\theta = k\sin\left(\frac{a}{60}\pi t\right)\ \ \ \ \ \ (-k \leqq \theta \leqq k) \
 $$
 　と表せます。要は周期$\frac{120}{a}$、振幅$k$の正弦波です。三角関数便利〜。

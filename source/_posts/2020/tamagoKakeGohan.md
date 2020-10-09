@@ -101,7 +101,7 @@ $$
 $$
 \begin{align}
 &\int_{0}^\sqrt{-\frac{49}{100}x^2+\frac{49}{10}}\sqrt{-\frac{4}{25}x^2-\frac{16}{49}y^2+1} dy \newline
-=&\dfrac{\left(28\mathrm{i}x^2-175\mathrm{i}\right)\operatorname{arsinh}\left(\frac{2\sqrt{490-49x^2}\sqrt{4x^2-25}}{28x^2-175}\right)+2\sqrt{15}\mathrm{i}\sqrt{490-49x^2}}{200}
+=&\dfrac{\left(28ix^2-175i\right)\operatorname{arsinh}\left(\frac{2\sqrt{490-49x^2}\sqrt{4x^2-25}}{28x^2-175}\right)+2\sqrt{15}i\sqrt{490-49x^2}}{200}
 \end{align}
 $$
 
@@ -110,8 +110,8 @@ $$
 もう後に引けないので全部計算サイトにぶち込んでいきます
 $$
 \begin{align}
-&\int_{0}^{2.5}\dfrac{\left(28\mathrm{i}x^2-175\mathrm{i}\right)\operatorname{arsinh}\left(\frac{2\sqrt{490-49x^2}\sqrt{4x^2-25}}{28x^2-175}\right)+2\sqrt{15}\mathrm{i}\sqrt{490-49x^2}}{200}dx \newline
-=&\left[\dfrac{7\mathrm{i}\left(125\ln\left(\frac{\left|\sqrt{15}\sqrt{10-x^2}+3x\right|}{\sqrt{10-x^2}}\right)-125\ln\left(\frac{\left|\sqrt{15}\sqrt{10-x^2}-3x\right|}{\sqrt{10-x^2}}\right)+\left(8x^3-150x\right)\operatorname{arsinh}\left(\frac{2\sqrt{10-x^2}}{\sqrt{4x^2-25}}\right)+2{\cdot}15^\frac{3}{2}\arcsin\left(\frac{x}{\sqrt{10}}\right)+4\sqrt{15}x\sqrt{10-x^2}\right)}{1200}\right]_{0}^{2.5} \newline
+&\int_{0}^{2.5}\dfrac{\left(28ix^2-175i\right)\operatorname{arsinh}\left(\frac{2\sqrt{490-49x^2}\sqrt{4x^2-25}}{28x^2-175}\right)+2\sqrt{15}i\sqrt{490-49x^2}}{200}dx \newline
+=&\left[\dfrac{7i\left(125\ln\left(\frac{\left|\sqrt{15}\sqrt{10-x^2}+3x\right|}{\sqrt{10-x^2}}\right)-125\ln\left(\frac{\left|\sqrt{15}\sqrt{10-x^2}-3x\right|}{\sqrt{10-x^2}}\right)+\left(8x^3-150x\right)\operatorname{arsinh}\left(\frac{2\sqrt{10-x^2}}{\sqrt{4x^2-25}}\right)+2{\cdot}15^\frac{3}{2}\arcsin\left(\frac{x}{\sqrt{10}}\right)+4\sqrt{15}x\sqrt{10-x^2}\right)}{1200}\right]_{0}^{2.5} \newline
 =&-2.290744043242558+3.071563268594146i
 \end{align}
 $$

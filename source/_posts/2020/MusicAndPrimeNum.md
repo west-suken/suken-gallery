@@ -8,5 +8,5 @@ tags: 2020年度
 
 記事の内容に全面的な剽窃が認められたため公開を停止しました。
 内容に関してはこちらをご覧ください。
-![https://www.gamefreak.co.jp/blog/dir/category/6/index.html](https://www.gamefreak.co.jp/blog/dir/category/6/index.html)
+https://www.gamefreak.co.jp/blog/dir/category/6/index.html
 (T@S)

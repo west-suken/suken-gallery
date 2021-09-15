@@ -1,6 +1,6 @@
 ---
 title: そうだ 積分、しよう。
-date: 2021-07-24 17:04:01
+date: 2021-07-24 17:04:04
 tags: 2021年度
 ---
 
@@ -19,7 +19,7 @@ tags: 2021年度
 
   今回積分していきますのはこちらの関数 $f(x)=x^{-x}$​​​ です。グラフはこんな感じになります。
 
-<img src="https://dm2302files.storage.live.com/y4mJfZ7SS7eEJSGUOd3NpiZzEVKIU6RZdcqqdBsffmryDkixmBwqb73e0EfyvemcVVEawBpPH5rA-JTxTNBhkwn9OoeQbm867VLWc9P-wDzAJ7ZLLjS9JIbLcACAuWuZ9Spz7jSMaMq2j_YRgEZTg8qZIUfcTQYt32EbdBIFumIkK_K2j-R4DlBNQ99F0bueRQt?width=1920&height=1090&cropmode=none" style="zoom:33%;" />
+<img src="https://dm2302files.storage.live.com/y4mhM8wzb0ReuOijxy8RhYsaL_ChdSalVcy4P0_k7wAVA2fGiFLI-wcsmvK22yS2PMfQxV0nni5Ymr6_6Iq46B-kyL2nc36nBPY9YdeelWApqCkDfbLunD5Ul7rK3pYMBrrpJCTdHAf0rHm2c-trUQJW39pnLMrY9OJQVn-sQgq_d8-3ssszss_jRMqPGoSKKLL?width=1920&height=1090&cropmode=none" style="zoom:33%;" />
 
 これを見て $0$ から $\infty$​ まで積分したくなる人は私だけではないはずです。面積、気になりますよね？？？
 
@@ -31,10 +31,10 @@ tags: 2021年度
 
 $$
 \begin{align}
-x^{-x}&=e^{\log{x^{-x}}}=e^{-x\log{x}}\\[5pt]
-&=\sum_{n=0}^{\infty}\frac{(-x\log{x})^n}{n!}\\
-&=\sum_{n=0}^{\infty}\frac{(-1)^n}{n!}(x\log{x})^n\\[10pt]
-\int x^{-x}\space dx&=\int\sum_{n=0}^{\infty}\frac{(-1)^n}{n!}(x\log{x})^n\space dx\\[4pt]
+x^{-x}&=e^{\log{x^{-x}}}=e^{-x\log{x}}\newline
+&=\sum_{n=0}^{\infty}\frac{(-x\log{x})^n}{n!}\newline
+&=\sum_{n=0}^{\infty}\frac{(-1)^n}{n!}(x\log{x})^n\newline
+\int x^{-x}\space dx&=\int\sum_{n=0}^{\infty}\frac{(-1)^n}{n!}(x\log{x})^n\space dx\newline
 &=\sum_{n=0}^{\infty}\frac{(-1)^n}{n!}\int(x\log{x})^n\space dx\tag{1}
 \end{align}
 $$
@@ -42,48 +42,48 @@ $$
 そうしたら、$\int(x\log{x})^n\space dx$​ の部分を置換積分しながら計算していきます。まず、$x=e^s$​ とおくと、$\frac{dx}{ds}=e^s$​ より $dx=e^sds$​ だから
 $$
 \begin{align}
-\int(x\log{x})^n\space dx&=\int(e^s\cdot s)^n e^s ds\\
-&=\int s^ne^{(n+1)s}\space ds\tag*{\,}
+\int(x\log{x})^n\space dx&=\int(e^s\cdot s)^n e^s ds\newline
+&=\int s^ne^{(n+1)s}\space ds
 \end{align}
 $$
 今度は $t=(n+1)s$​ で置換します。両辺を $s$ で微分して $\frac{dt}{ds}=n+1$ より $ds=\frac{dt}{n+1}$​ なので
 $$
 \begin{align}
-\int s^ne^{(n+1)s}\space ds&=\int\left(\frac{t}{n+1}\right)^ne^t\frac{dt}{n+1}\\[4pt]
+\int s^ne^{(n+1)s}\space ds&=\int\left(\frac{t}{n+1}\right)^ne^t\frac{dt}{n+1}\newline
 &=\left(\frac{1}{n+1}\right)^{n+1}\int t^ne^t\space dt\tag{2}
 \end{align}
 $$
 ここで、$\int t^ne^t\space dt$ を部分積分してみると、
 $$
 \begin{align}
-\int t^ne^t\space dt&=t^ne^t-\int nt^{n-1}e^t\space dt\\
-&=t^ne^t-nt^{n-1}e^t+\int n(n-1)t^{n-2}e^t\space dt\\
-&\hspace{6pt}\vdots\\
+\int t^ne^t\space dt&=t^ne^t-\int nt^{n-1}e^t\space dt\newline
+&=t^ne^t-nt^{n-1}e^t+\int n(n-1)t^{n-2}e^t\space dt\newline
+&\hspace{6pt}\vdots\newline
 &=t^ne^t-nt^{n-1}e^t+n(n-1)t^{n-2}e^t-\cdots+(-1)^k\frac{n!}{(n-k)!}t^{n-k}
-e^t+\cdots+(-1)^nn!e^t+C\\
+e^t+\cdots+(-1)^nn!e^t+C\newline
 &=e^t\sum_{k=0}^n\frac{(-1)^kn!}{(n-k)!}t^{n-k}+C
 \end{align}
 $$
 ちょっと複雑ですがインテグラルを外すことができました。あとはこの式の $t$ を $x$ にもどしていきます。$x=e^s$ 、$t=(n+1)s$ と置換したので、$t=(n+1)\log{x}$ となります。
 $$
 \begin{align}
-e^t\sum_{k=0}^n\frac{(-1)^kn!}{(n-k)!}t^{n-k}+C&=e^{(n+1)\log{x}}\sum_{k=0}^n\frac{(-1)^kn!}{(n-k)!}\Big\{(n+1)\log{x}\Big\}^{n-k}+C\\[4pt]
-&=x^{n+1}\sum_{k=0}^n\frac{(-1)^kn!}{(n-k)!}\Big\{(n+1)\log{x}\Big\}^{n-k}+C\tag*{\,}
+e^t\sum_{k=0}^n\frac{(-1)^kn!}{(n-k)!}t^{n-k}+C&=e^{(n+1)\log{x}}\sum_{k=0}^n\frac{(-1)^kn!}{(n-k)!}\{(n+1)\log{x}\}^{n-k}+C\newline
+&=x^{n+1}\sum_{k=0}^n\frac{(-1)^kn!}{(n-k)!}\{(n+1)\log{x}\}^{n-k}+C
 \end{align}
 $$
 これを $(2)$​​​ を経由して $(1)$ に代入すれば、
 $$
 \begin{align}
-\int x^{-x}\space dx&=\sum_{n=0}^{\infty}\frac{(-1)^n}{n!}\left(\frac{1}{n+1}\right)^{n+1}\left(x^{n+1}\sum_{k=0}^n\frac{(-1)^kn!}{(n-k)!}\Big\{(n+1)\log{x}\Big\}^{n-k}+C\right)\\[4pt]
-&=\sum_{n=0}^{\infty}\left(\frac{(-1)^nx^{n+1}}{n+1}\sum_{k=0}^n\frac{(-1)^k}{(n-k)!}(n+1)^{-k}(\log{x})^{n-k}\right)+\sum_{n=0}^{\infty}\frac{(-1)^n}{n!}\left(\frac{1}{n+1}\right)^{n+1}C\\[6pt]
+\int x^{-x}\space dx&=\sum_{n=0}^{\infty}\frac{(-1)^n}{n!}\left(\frac{1}{n+1}\right)^{n+1}\left(x^{n+1}\sum_{k=0}^n\frac{(-1)^kn!}{(n-k)!}\{(n+1)\log{x}\}^{n-k}+C\right)\newline
+&=\sum_{n=0}^{\infty}\left(\frac{(-1)^nx^{n+1}}{n+1}\sum_{k=0}^n\frac{(-1)^k}{(n-k)!}(n+1)^{-k}(\log{x})^{n-k}\right)+\sum_{n=0}^{\infty}\frac{(-1)^n}{n!}\left(\frac{1}{n+1}\right)^{n+1}C\newline
 &=\sum_{n=0}^{\infty}\left(\frac{(-1)^nx^{n+1}}{n+1}\sum_{k=0}^n\frac{(-1)^k(\log{x})^{n-k}}{(n-k)!(n+1)^k}\right)+\sum_{n=0}^{\infty}\frac{(-1)^n}{(n+1)!(n+1)^n}C
 \end{align}
 $$
 出ました！
 $$
 \begin{align}
-\large{\int x^{-x}\space dx=\sum_{n=0}^{\infty}\left(\frac{(-1)^nx^{n+1}}{n+1}\sum_{k=0}^n\frac{(-1)^k(\log{x})^{n-k}}{(n-k)!(n+1)^k}\right)+C'}\tag{$\mathrm{*}$}\\[6pt]
-\left(ただし,\space C'=\sum_{n=0}^{\infty}\frac{(-1)^n}{(n+1)!(n+1)^n}C\right)\\[4pt]
+\large{\int x^{-x}\space dx=\sum_{n=0}^{\infty}\left(\frac{(-1)^nx^{n+1}}{n+1}\sum_{k=0}^n\frac{(-1)^k(\log{x})^{n-k}}{(n-k)!(n+1)^k}\right)+C'}\tag{$\mathrm{*}$}\newline
+\left(ただし,\space C'=\sum_{n=0}^{\infty}\frac{(-1)^n}{(n+1)!(n+1)^n}C\right)\newline
 \end{align}
 $$
 ですが、これには $x=0$​ は含まれていません( $\log{0}$​ が定義できないから)。そのため、$x=0$​ の場合も計算しておく必要があります。
@@ -91,25 +91,25 @@ $$
  $(*)$ の右辺の $C'$ を除く各項は、
 $$
 \begin{align}
-\frac{(-1)^nx^{n+1}}{n+1}\cdot\frac{(-1)^k(\log{x})^{n-k}}{(n-k)!(n+1)^k}=\frac{(-1)^{n+k}}{(n-k)!(n+1)^{k+1}}x^{k+1}(x\log{x})^{n-k}\quad(0\leqq k\leqq n)\tag*{\,}
+\frac{(-1)^nx^{n+1}}{n+1}\cdot\frac{(-1)^k(\log{x})^{n-k}}{(n-k)!(n+1)^k}=\frac{(-1)^{n+k}}{(n-k)!(n+1)^{k+1}}x^{k+1}(x\log{x})^{n-k}\quad(0\leqq k\leqq n)
 \end{align}
 $$
 となっています。ここで、
 $$
 \begin{align}
-\lim_{x\to0}x^{k+1}=0\space,\space\lim_{x\to0}x\log{x}=0\tag*{\,}
+\lim_{x\to0}x^{k+1}=0\space,\space\lim_{x\to0}x\log{x}=0
 \end{align}
 $$
 より
 $$
 \begin{align}
-\lim_{x\to0}x^{k+1}(x\log{x})^{n-k}=0\tag*{\,}
+\lim_{x\to0}x^{k+1}(x\log{x})^{n-k}=0
 \end{align}
 $$
 また、係数部分は、$(0\leqq k\leqq n)$​ の条件下では分母に $0$​ が現れません。そのため、$x$​ を $0$​ に限りなく近づけていくと、積分定数 $C'$以外の部分は $0$​​​ になります。よって、
 $$
 \begin{align}
-\int f(0)\space dx=C’\tag*{\,}
+\int f(0)\space dx=C’
 \end{align}
 $$
  だいぶ面倒でしたね。私は数学素人なのでもしかしたらもっとエレガントな導出方法があるのかもしれませんが、もうこれ以上頭を使いたくないので考えません。
@@ -119,27 +119,28 @@ $$
  $0$ から $1$ までの定積分はそんなに難しくありません。$(*)$ に数値を代入して計算して終わりです。$f(0)$ の時の積分値は先ほど計算したので、
 $$
 \begin{align}
-\int_0^1x^{-x}\space dx&=\left\{\sum_{n=0}^{\infty}\left(\frac{(-1)^n\cdot1^{n+1}}{n+1}\sum_{k=0}^n\frac{(-1)^k(\log{1})^{n-k}}{(n-k)!(n+1)^k}\right)+C'\right\}-C'\\[6pt]
-&=\sum_{n=0}^{\infty}\left(\frac{(-1)^n}{n+1}\sum_{k=0}^n\frac{(-1)^k\cdot0^{n-k}}{(n-k)!(n+1)^k}\right)\tag*{\,}
+\int_0^1x^{-x}\space dx&={\sum_{n=0}^{\infty}\left(\frac{(-1)^n\cdot1^{n+1}}{n+1}\sum_{k=0}^n\frac{(-1)^k(\log{1})^{n-k}}{(n-k)!(n+1)^k}\right)+C'}-C'\newline
+&=\sum_{n=0}^{\infty}\left(\frac{(-1)^n}{n+1}\sum_{k=0}^n\frac{(-1)^k\cdot0^{n-k}}{(n-k)!(n+1)^k}\right)
 \end{align}
 $$
 $k=n$​ のとき $0^{n-k}=1$​ 、 $k\neq n$​ のとき $0^{n-k}=0$​​ だから
 $$
 \begin{align}
-\sum_{k=0}^n\frac{(-1)^k\cdot0^{n-k}}{(n-k)!(n+1)^k}=\frac{(-1)^n}{(n+1)^n}\tag*{\,}
+\sum_{k=0}^n\frac{(-1)^k\cdot0^{n-k}}{(n-k)!(n+1)^k}=\frac{(-1)^n}{(n+1)^n}
 \end{align}
 $$
 よって
 $$
 \begin{align}
-\int_0^1x^{-x}\space dx&=\sum_{n=0}^{\infty}\left(\frac{(-1)^n}{n+1}\cdot\frac{(-1)^n}{(n+1)^n}\right)=\sum_{n=0}^{\infty}\frac{1}{(n+1)^{n+1}}\\[4pt]
-&=\sum_{n=1}^{\infty}\frac{1}{n^n}\\[4pt]
-&=1+\frac{1}{2^2}+\frac{1}{3^3}+\frac{1}{4^4}+\cdots\tag*{\,}
+\int_0^1x^{-x}\space dx&=\sum_{n=0}^{\infty}\left(\frac{(-1)^n}{n+1}\cdot\frac{(-1)^n}{(n+1)^n}\right)=\sum_{n=0}^{\infty}\frac{1}{(n+1)^{n+1}}\newline
+&=\sum_{n=1}^{\infty}\frac{1}{n^n}\newline
+&=1+\frac{1}{2^2}+\frac{1}{3^3}+\frac{1}{4^4}+\cdots
 \end{align}
 $$
-なんと、こんなにシンプルな式になってしまいました。美しいですね。これを見つけたときは感動しました(午前5時頃)。この値を電卓かなんかで計算すると、
+なんと、こんなにシンプルな式になってしまいました。美しいですね。これを見つけたときは感動しました(午前5時頃)。
+この値を電卓かなんかで計算すると、
 $$
-\int_0^1x^{-x}\space dx\approx1.29128599706\tag*{\,}
+\int_0^1x^{-x}\space dx\approx1.29128599706
 $$
 こんな感じになります。
 

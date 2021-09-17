@@ -7,10 +7,6 @@ tags: 2021年度
 
 <div style="text-align:right">76期  [鋨] </div>
 
-目次
-
-[TOC]
-
 
 
 ## はじめに

@@ -60,16 +60,23 @@ index2_generator:
     index: true
     per_page: 0
     order_by: -date
-    exclude:
-      - tag 2019年度
+    include:
+      - tag 2021年度
   - layout: 'index'
-    path: '/backnumber/'
+    path: '/2020/'
     index: true
     per_page: 0
     order_by: -date
-    exclude:
+    include:
       - tag 2020年度
-  
+  - layout: 'index'
+    path: '/2019/'
+    index: true
+    per_page: 0
+    order_by: -date
+    include:
+      - tag 2019年度
+
 # Category & Tag
 default_category: uncategorized
 category_map:

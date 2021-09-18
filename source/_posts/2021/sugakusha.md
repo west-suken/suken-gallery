@@ -35,7 +35,7 @@ tags: 2021年度
 
 * ***ニュートン*** 
 
-  ![](https://dm2302files.storage.live.com/y4mIPOBmOSXHQVLDBlGBD-bfYCeMge00mBsv-Thy_o3iuWoLWAoF4BWhQjuGoDDwT15Hghf_R1EUbvDJeay4zZmkb_rWqWMenMgmXR5UouFUEID3-gvVUCgL4YC5Buy9urL6lKw7f38ScXRKxArVLS5ZuzLJzn7ThKiuqTX4Ofio5trEPYhMv44qbf-Fl8VrE00?width=614&height=767&cropmode=none)
+  ![](https://dm2302files.storage.live.com/y4m-eeF54Ow7dwla_It2H6Dpzfat_NhfIRCawMLVQA9DcKC3pk3ZUjRo2Yea02iyAiQDHmaa-ms8vPHbZXQcPAmeq1nsmhsMVxP3gFsHf4d079qJmsqtcmcHzgxhXaNkJQXfQ3FZNloLOYR_sKVYyMlXtXefpi8UTPRWPsZ369sxjIH_vQP0DDKAbUHh0YregbJ?width=800&height=559&cropmode=none)
 
   □ 年代：１７世紀ごろ  
 
@@ -113,13 +113,13 @@ tags: 2021年度
 
 * ***オイラー***
 
-  ![](https://dm2302files.storage.live.com/y4m-eeF54Ow7dwla_It2H6Dpzfat_NhfIRCawMLVQA9DcKC3pk3ZUjRo2Yea02iyAiQDHmaa-ms8vPHbZXQcPAmeq1nsmhsMVxP3gFsHf4d079qJmsqtcmcHzgxhXaNkJQXfQ3FZNloLOYR_sKVYyMlXtXefpi8UTPRWPsZ369sxjIH_vQP0DDKAbUHh0YregbJ?width=800&height=559&cropmode=none)
+  ![](https://dm2302files.storage.live.com/y4mIPOBmOSXHQVLDBlGBD-bfYCeMge00mBsv-Thy_o3iuWoLWAoF4BWhQjuGoDDwT15Hghf_R1EUbvDJeay4zZmkb_rWqWMenMgmXR5UouFUEID3-gvVUCgL4YC5Buy9urL6lKw7f38ScXRKxArVLS5ZuzLJzn7ThKiuqTX4Ofio5trEPYhMv44qbf-Fl8VrE00?width=614&height=767&cropmode=none)
 
   □ 年代：１８世紀  
 
   □ 出生地：スイス
 
-  □ 業績：記号としてπやf（x）sin/cosや∑を広めた、オイラー線、オイラーの多面体定理、オイラーの公式、オイラー積分、ゼータ関数など
+  □ 業績：記号としてπや$f(x)$sin/cosや∑を広めた、オイラー線、オイラーの多面体定理、オイラーの公式、オイラー積分、ゼータ関数など
 
   □ 性格：不明
 

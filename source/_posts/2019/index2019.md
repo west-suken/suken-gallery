@@ -1,6 +1,6 @@
 ---
 title: はじめに
-date: 2019-09-30 09:45:45
+date: 2019-12-30 09:45:45
 tag: 2019年度
 cover_detail: https://7u0moq.bn.files.1drv.com/y4mQaqN6QFROz1lMnVUfHjAOr_YoySJ6dyTgFk8Fulb-QI_keHruv4Z_3xSnQZ2aF3JQM_RBV98CEp_c7BLSiMlJ73IRInR61Gg0nEbPdPjjVaqbQAAmoauD2qeQnyF1N9tk1sN-apQtyAt8saxDAKK102wd6cJet94kgBGccs4i_E6S2PZ6-dwRs7Lffwu-btxB5syNNok4UBxCWBQOPndQA?width=1300&height=500&cropmode=none
 ---

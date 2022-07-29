@@ -1,3 +1,11 @@
+---
+title: eのz乗の鑑賞会
+date: 2022-07-30 8:54:00
+tags: 2022年度
+---
+
+
+
 # eのz乗の鑑賞会
 
 <div style="text-align: right">76期 椅子屋</div>

@@ -1,3 +1,11 @@
+---
+title: n進法のすゝめ
+date: 2022-07-30 9:32:40
+tags: 2022年度
+---
+
+
+
 # *n*進法ライフのすゝめ  
 
 <div style="text-align: right">76期　OH27<sub>(9)</sub>

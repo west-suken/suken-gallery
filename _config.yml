@@ -56,14 +56,14 @@ highlight:
 index2_include_index: true
 index2_generator:
   - layout: 'index'
-    path: ''
+    path: '/'
     index: true
     per_page: 0
     order_by: -date
     include:
       - tag 2022年度
   - layout: 'index'
-    path: ''
+    path: '/2021/'
     index: true
     per_page: 0
     order_by: -date
